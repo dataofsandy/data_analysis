@@ -1,0 +1,5 @@
+﻿RiskRating,Description,PremiumAdjustment
+A0,Low,0.8
+A1,Medium,1
+A2,High,1.2
+ ,,

@@ -1,0 +1,1001 @@
+﻿PolicyID,StartDate,Location,State,Region,InsuredValue,Construction,BusinessType,Earthquake,Flood
+200421501,2016-02-01,Urban,NY,East,1617630,Frame,Retail,0,0
+200421077,2016-02-01,Urban,NY,East,12750000,Frame,Apartment,1,1
+200421248,2016-02-01,Urban,NH,Northeast,320000,Masonry,Retail,1,0
+200421771,2016-02-02,Urban,WI,Midwest,2205950,Masonry,Apartment,1,0
+200421517,2016-02-02,Rural,WI,Midwest,1432835,Frame,Farming,0,0
+200421833,2016-02-03,Urban,WI,Midwest,685000,Masonry,Hospitality,0,0
+200421104,2016-02-03,Urban,NJ,East,16998000,Frame,Office Bldg,0,0
+200421782,2016-02-06,Urban,NY,East,11147050,Fire Resist,Apartment,1,0
+200421271,2016-02-06,Urban,WI,Midwest,2205950,Masonry,Apartment,1,0
+200421846,2016-02-07,Urban,NY,East,15625000,Frame,Office Bldg,0,0
+200421745,2016-02-07,Urban,VT,Northeast,3579800,Metal Clad,Farming,0,1
+200421577,2016-02-07,Urban,NY,East,12750000,Frame,Apartment,1,1
+200421826,2016-02-08,Urban,IL,Midwest,2182250,Frame,Farming,0,0
+200421009,2016-02-08,Urban,NY,East,14100000,Frame,Apartment,0,1
+200421620,2016-02-09,Urban,NH,Northeast,97920,Frame,Office Bldg,0,0
+200421488,2016-02-09,Urban,NY,East,1425000,Masonry,Apartment,0,0
+200421303,2016-02-10,Urban,NY,East,1851125,Frame,Office Bldg,0,0
+200421138,2016-02-11,Rural,WI,Midwest,6020060,Masonry,Farming,0,1
+200421290,2016-02-11,Urban,VT,Northeast,1588100,Masonry,Recreation,0,0
+200421532,2016-02-11,Rural,NJ,East,3189300,Masonry,Service,0,0
+200421516,2016-02-12,Urban,NY,East,1370300,Frame,Apartment,0,1
+200421153,2016-02-12,Urban,MI,Central,394220,Frame,Retail,0,0
+200421444,2016-02-12,Urban,WI,Midwest,1063100,Masonry,Apartment,0,0
+200421907,2016-02-12,Urban,NY,East,3295800,Frame,Farming,1,0
+200421912,2016-02-12,Urban,WI,Midwest,3741300,Fire Resist,Apartment,0,0
+200421590,2016-02-12,Rural,OH,Central,5377000,Frame,Apartment,1,0
+200421982,2016-02-13,Urban,NH,Northeast,626000,Masonry,Office Bldg,1,1
+200421646,2016-02-13,Urban,NJ,East,9148076,Frame,Manufacturing,0,1
+200421506,2016-02-13,Urban,IL,Midwest,12934500,Frame,Apartment,0,1
+200421665,2016-02-14,Urban,NJ,East,4483000,Frame,Office Bldg,0,1
+200421174,2016-02-14,Rural,WI,Midwest,2798650,Masonry,Farming,0,0
+200421193,2016-02-15,Urban,NJ,East,10198700,Fire Resist,Office Bldg,0,1
+200421558,2016-02-16,Urban,WI,Midwest,8126500,Masonry,Organization,0,0
+200421794,2016-02-16,Urban,NY,East,4267000,Frame,Office Bldg,1,0
+200421128,2016-02-17,Urban,NJ,East,3363463,Frame,Farming,0,0
+200421913,2016-02-17,Urban,NY,East,2806200,Frame,Farming,0,0
+200421109,2016-02-18,Urban,VT,Northeast,5272975,Frame,Apartment,0,0
+200421447,2016-02-18,Rural,NY,East,1882600,Frame,Farming,0,1
+200421957,2016-02-18,Urban,WI,Midwest,2464755,Metal Clad,Farming,0,0
+200421845,2016-02-18,Urban,NJ,East,1115870,Frame,Farming,1,1
+200421755,2016-02-18,Urban,WI,Midwest,2201500,Frame,Farming,0,0
+200421502,2016-02-19,Urban,NY,East,8678500,Fire Resist,Apartment,0,0
+200421446,2016-02-19,Urban,NJ,East,3356200,Masonry,Construction,1,0
+200421149,2016-02-19,Urban,WI,Midwest,35245000,Masonry,Apartment,0,0
+200421266,2016-02-19,Urban,NY,East,3178400,Frame,Office Bldg,1,0
+200421180,2016-02-20,Urban,VT,Northeast,2785000,Frame,Organization,1,0
+200421377,2016-02-20,Urban,NY,East,9900000,Frame,Apartment,0,0
+200421571,2016-02-20,Rural,WI,Midwest,5613900,Masonry,Farming,0,0
+200421482,2016-02-21,Urban,NH,Northeast,626000,Masonry,Office Bldg,0,0
+200421961,2016-02-21,Urban,WI,Midwest,1711268,Frame,Manufacturing,0,0
+200421321,2016-02-22,Rural,NY,East,3409000,Metal Clad,Farming,1,0
+200421898,2016-02-22,Urban,NY,East,5213100,Frame,Apartment,1,0
+200421570,2016-02-22,Urban,NY,East,1417800,Frame,Organization,0,0
+200421975,2016-02-22,Urban,NY,East,11575700,Frame,Apartment,0,0
+200421767,2016-02-23,Urban,ME,Northeast,7150000,Masonry,Apartment,0,0
+200421191,2016-02-23,Urban,NY,East,1292345,Frame,Office Bldg,1,0
+200421206,2016-02-24,Urban,NY,East,847300,Frame,Apartment,0,0
+200421299,2016-02-24,Urban,WI,Midwest,2067500,Fire Resist,Service,0,0
+200421108,2016-02-24,Urban,NJ,East,3960000,Frame,Office Bldg,0,1
+200421754,2016-02-24,Rural,NY,East,1875000,Masonry,Hospitality,0,0
+200421610,2016-02-24,Urban,VT,Northeast,6354220,Frame,Apartment,0,1
+200421512,2016-02-25,Rural,NY,East,6350000,Frame,Apartment,0,0
+200421536,2016-02-25,Urban,NY,East,18777355,Frame,Apartment,0,1
+200421799,2016-02-25,Urban,WI,Midwest,2067500,Fire Resist,Service,0,1
+200421158,2016-02-26,Rural,NY,East,4353100,Frame,Farming,1,0
+200421706,2016-02-26,Urban,NY,East,847300,Frame,Apartment,0,0
+200421417,2016-02-26,Urban,WI,Midwest,4201800,Frame,Farming,1,0
+200421471,2016-02-26,Rural,NY,East,1121600,Metal Clad,Farming,0,0
+200421194,2016-02-27,Urban,MI,Central,714000,Frame,Apartment,0,0
+200421229,2016-02-27,Rural,NY,East,1958400,Frame,Farming,1,1
+200421115,2016-02-27,Urban,NY,East,3400000,Frame,Construction,0,0
+200421509,2016-02-27,Urban,NY,East,14100000,Frame,Apartment,0,1
+200421421,2016-02-27,Urban,NY,East,4530000,Frame,Apartment,1,0
+200421917,2016-02-28,Urban,WI,Midwest,4201800,Frame,Farming,1,1
+200421055,2016-02-28,Urban,OH,Central,1849000,Metal Clad,Retail,0,0
+200421523,2016-02-28,Urban,NY,East,7677000,Frame,Apartment,0,0
+200421827,2016-02-28,Urban,WI,Midwest,4328620,Frame,Farming,1,0
+200421456,2016-02-28,Urban,WI,Midwest,1740000,Masonry,Office Bldg,0,1
+200421273,2016-02-28,Urban,WI,Midwest,3222081,Masonry,Farming,1,0
+200421662,2016-02-29,Urban,NY,East,4156000,Masonry,Hospitality,0,1
+200421673,2016-03-01,Urban,WI,Midwest,2867650,Frame,Farming,0,1
+200421554,2016-03-01,Urban,NJ,East,16932600,Fire Resist,Apartment,0,0
+200421734,2016-03-01,Urban,WI,Midwest,782428,Masonry,Apartment,1,0
+200421121,2016-03-02,Urban,NY,East,5150000,Frame,Apartment,0,1
+200421749,2016-03-02,Urban,NY,East,1379400,Frame,Apartment,1,0
+200421657,2016-03-02,Urban,NY,East,5086300,Frame,Office Bldg,1,0
+200421723,2016-03-02,Urban,WI,Midwest,1658765,Masonry,Farming,0,0
+200421068,2016-03-02,Rural,NY,East,2050000,Frame,Farming,0,1
+200421850,2016-03-03,Urban,WI,Midwest,2611400,Frame,Farming,1,0
+200421609,2016-03-03,Urban,VT,Northeast,5272975,Frame,Apartment,0,0
+200421257,2016-03-04,Urban,WI,Midwest,105000,Masonry,Other,0,0
+200421320,2016-03-04,Urban,NY,East,1267625,Frame,Office Bldg,0,0
+200421996,2016-03-04,Urban,VT,Northeast,4101750,Fire Resist,Office Bldg,1,0
+200421748,2016-03-04,Urban,NH,Northeast,320000,Masonry,Retail,0,1
+200421580,2016-03-05,Rural,NY,East,10302000,Fire Resist,Office Bldg,1,0
+200421328,2016-03-05,Urban,NJ,East,1840000,Masonry,Apartment,0,0
+200421409,2016-03-05,Urban,NY,East,2350000,Masonry,Apartment,0,1
+200421185,2016-03-05,Urban,NY,East,2730000,Metal Clad,Hospitality,1,0
+200421779,2016-03-06,Urban,VT,Northeast,2477200,Frame,Farming,1,0
+200421359,2016-03-06,Urban,NY,East,1962400,Frame,Apartment,0,0
+200421363,2016-03-07,Urban,NJ,East,3062000,Frame,Apartment,0,1
+200421025,2016-03-07,Rural,NY,East,2529400,Frame,Farming,1,0
+200421557,2016-03-07,Urban,NJ,East,3052600,Frame,Apartment,0,0
+200421326,2016-03-08,Rural,IL,Midwest,2182250,Frame,Farming,1,0
+200421881,2016-03-08,Urban,NY,East,5550000,Fire Resist,Apartment,0,0
+200421895,2016-03-08,Urban,VT,Northeast,6000902,Frame,Farming,0,1
+200421692,2016-03-08,Urban,VT,Northeast,9702682,Frame,Apartment,0,0
+200421441,2016-03-08,Urban,NY,East,9250000,Frame,Apartment,0,0
+200421207,2016-03-08,Urban,NJ,East,400000,Masonry,Office Bldg,0,0
+200421542,2016-03-08,Urban,NY,East,3754000,Frame,Office Bldg,0,0
+200421670,2016-03-10,Urban,WI,Midwest,2103390,Masonry,Farming,0,0
+200421082,2016-03-10,Urban,WI,Midwest,4833900,Masonry,Office Bldg,0,0
+200421362,2016-03-11,Urban,OH,Central,1202090,Frame,Organization,0,0
+200421406,2016-03-11,Rural,WI,Midwest,4064995,Masonry,Farming,0,0
+200421282,2016-03-11,Urban,NY,East,11147050,Fire Resist,Apartment,1,1
+200421727,2016-03-11,Urban,NJ,East,373500,Frame,Office Bldg,0,0
+200421526,2016-03-12,Urban,NJ,East,2328650,Frame,Organization,0,0
+200421596,2016-03-12,Urban,NJ,East,2249500,Frame,Farming,1,0
+200421732,2016-03-12,Urban,WI,Midwest,2224219,Frame,Farming,0,0
+200421742,2016-03-14,Urban,NY,East,1780000,Frame,Hospitality,0,0
+200421461,2016-03-14,Urban,WI,Midwest,1711268,Frame,Manufacturing,0,1
+200421703,2016-03-14,Rural,NY,East,3107790,Masonry,Office Bldg,1,0
+200421315,2016-03-14,Urban,WI,Midwest,2321900,Frame,Manufacturing,1,0
+200421896,2016-03-15,Urban,NY,East,660473,Frame,Apartment,0,0
+200421098,2016-03-16,Rural,WI,Midwest,1152600,Frame,Farming,1,0
+200421350,2016-03-16,Rural,WI,Midwest,2611400,Frame,Farming,1,1
+200421769,2016-03-16,Urban,NY,East,18275350,Frame,Office Bldg,0,0
+200421026,2016-03-17,Urban,NJ,East,2328650,Frame,Organization,0,0
+200421136,2016-03-17,Urban,NY,East,1697200,Frame,Other,0,1
+200421094,2016-03-17,Urban,NJ,East,296000,Frame,Apartment,1,1
+200421331,2016-03-18,Urban,NY,East,2494300,Frame,Apartment,0,1
+200421301,2016-03-18,Urban,NY,East,2356100,Frame,Hospitality,0,0
+200421535,2016-03-18,Rural,OH,Central,1787900,Frame,Office Bldg,1,0
+200421463,2016-03-19,Urban,NY,East,10746600,Frame,Apartment,0,0
+200421366,2016-03-20,Urban,NJ,East,1975000,Fire Resist,Hospitality,0,0
+200421056,2016-03-20,Urban,OH,Central,218490,Frame,Apartment,1,0
+200421235,2016-03-20,Urban,NJ,East,299400,Frame,Office Bldg,0,0
+200421747,2016-03-21,Urban,NY,East,5781710,Frame,Farming,0,1
+200421384,2016-03-22,Rural,NY,East,10811785,Metal Clad,Retail,1,0
+200421129,2016-03-22,Rural,WI,Midwest,1568100,Frame,Farming,1,1
+200421477,2016-03-22,Urban,NJ,East,5114500,Frame,Office Bldg,0,0
+200421712,2016-03-22,Urban,NY,East,2660299,Frame,Farming,1,0
+200421839,2016-03-22,Urban,WI,Midwest,1960200,Masonry,Farming,0,0
+200421984,2016-03-22,Rural,NY,East,6235057,Frame,Farming,0,0
+200421081,2016-03-22,Urban,NH,Northeast,2500000,Metal Clad,Manufacturing,0,1
+200421911,2016-03-25,Rural,WI,Midwest,3175400,Masonry,Office Bldg,0,0
+200421623,2016-03-25,Urban,NJ,East,1761960,Masonry,Office Bldg,0,0
+200421322,2016-03-25,Urban,NY,East,33250000,Frame,Apartment,0,0
+200421072,2016-03-26,Urban,NJ,East,2471100,Frame,Farming,0,1
+200421744,2016-03-26,Urban,NJ,East,1463800,Frame,Farming,0,1
+200421707,2016-03-26,Urban,NJ,East,400000,Masonry,Office Bldg,1,0
+200421997,2016-03-27,Urban,OH,Central,1739100,Frame,Apartment,0,0
+200421955,2016-03-27,Rural,NY,East,27208210,Fire Resist,Apartment,0,0
+200421604,2016-03-27,Rural,NJ,East,16998000,Frame,Office Bldg,0,0
+200421483,2016-03-28,Rural,WI,Midwest,4132600,Frame,Farming,1,0
+200421859,2016-03-28,Urban,NY,East,1962400,Frame,Apartment,0,1
+200421049,2016-03-28,Urban,NJ,East,1245000,Frame,Hospitality,0,0
+200421818,2016-03-28,Urban,NY,East,1830900,Frame,Office Bldg,0,0
+200421625,2016-03-29,Rural,NY,East,2329500,Frame,Apartment,1,0
+200421938,2016-03-29,Urban,NY,East,2013357,Frame,Farming,0,0
+200421656,2016-03-29,Urban,WI,Midwest,979572,Frame,Retail,0,0
+200421144,2016-03-29,Urban,NY,East,2402500,Frame,Apartment,0,1
+200421555,2016-03-30,Urban,OH,Central,1849000,Metal Clad,Retail,0,0
+200421579,2016-03-30,Urban,NY,East,9493313,Masonry,Apartment,0,0
+200421820,2016-03-30,Urban,NY,East,1267625,Frame,Office Bldg,0,1
+200421106,2016-03-31,Urban,NY,East,2835800,Metal Clad,Manufacturing,0,0
+200421396,2016-03-31,Urban,NY,East,660473,Frame,Apartment,0,0
+200421953,2016-03-31,Urban,NY,East,275000,Fire Resist,Retail,1,1
+200421976,2016-03-31,Rural,OH,Central,608500,Frame,Apartment,1,0
+200421940,2016-03-31,Urban,NY,East,11650000,Frame,Office Bldg,1,0
+200421529,2016-03-31,Urban,NY,East,1177700,Frame,Hospitality,0,1
+200421030,2016-04-01,Urban,VT,Northeast,7203500,Frame,Office Bldg,0,0
+200421935,2016-04-01,Urban,NY,East,6450000,Frame,Office Bldg,0,1
+200421242,2016-04-01,Urban,NY,East,1780000,Frame,Hospitality,0,1
+200421114,2016-04-01,Rural,NY,East,4102500,Frame,Farming,0,0
+200421261,2016-04-02,Rural,WI,Midwest,1778600,Frame,Farming,1,0
+200421305,2016-04-02,Urban,NY,East,2400000,Frame,Construction,0,0
+200421551,2016-04-02,Rural,WI,Midwest,5000368,Masonry,Manufacturing,0,1
+200421382,2016-04-02,Urban,NY,East,1922800,Metal Clad,Office Bldg,0,1
+200421990,2016-04-02,Rural,WI,Midwest,1665100,Frame,Apartment,0,1
+200421788,2016-04-02,Urban,NY,East,2562500,Fire Resist,Manufacturing,0,1
+200421432,2016-04-03,Urban,WI,Midwest,3952500,Masonry,Manufacturing,0,1
+200421689,2016-04-03,Rural,OH,Central,661900,Frame,Apartment,1,0
+200421667,2016-04-03,Urban,MN,Midwest,1834200,Frame,Hospitality,1,0
+200421378,2016-04-03,Urban,MI,Central,3255300,Frame,Hospitality,0,0
+200421802,2016-04-04,Rural,NY,East,7932500,Frame,Apartment,1,0
+200421805,2016-04-04,Urban,NY,East,2400000,Frame,Construction,0,0
+200421679,2016-04-05,Urban,NY,East,1651300,Frame,Farming,0,0
+200421773,2016-04-05,Urban,WI,Midwest,3222081,Masonry,Farming,0,0
+200421143,2016-04-05,Urban,NY,East,7394300,Frame,Apartment,0,0
+200421016,2016-04-06,Urban,NY,East,1370300,Frame,Apartment,1,0
+200421065,2016-04-06,Rural,NY,East,2937200,Frame,Farming,0,0
+200421341,2016-04-06,Rural,NY,East,4127900,Metal Clad,Farming,0,0
+200421560,2016-04-06,Urban,NJ,East,5918400,Frame,Farming,0,0
+200421825,2016-04-06,Urban,WI,Midwest,1519100,Masonry,Apartment,1,0
+200421840,2016-04-07,Urban,IL,Midwest,16833800,Fire Resist,Apartment,0,0
+200421873,2016-04-07,Urban,NJ,East,1936200,Frame,Farming,0,0
+200421920,2016-04-07,Rural,NY,East,1144300,Frame,Apartment,0,0
+200421304,2016-04-08,Urban,NY,East,8345500,Frame,Apartment,0,0
+200421047,2016-04-08,Urban,NY,East,7577000,Frame,Apartment,0,0
+200421876,2016-04-08,Urban,NY,East,2000000,Masonry,Apartment,0,0
+200421211,2016-04-08,Rural,NY,East,1927450,Frame,Farming,1,0
+200421547,2016-04-09,Urban,NY,East,7577000,Frame,Apartment,1,0
+200421324,2016-04-09,Urban,WI,Midwest,275000,Masonry,Apartment,0,1
+200421224,2016-04-09,Urban,OH,Central,8272853,Masonry,Apartment,0,0
+200421428,2016-04-09,Urban,NY,East,1510000,Masonry,Hospitality,1,0
+200421230,2016-04-10,Urban,NY,East,17746832,Masonry,Apartment,0,0
+200421039,2016-04-10,Rural,NY,East,2145420,Frame,Farming,0,0
+200421970,2016-04-10,Urban,NY,East,100000,Metal Clad,Farming,0,0
+200421476,2016-04-11,Urban,OH,Central,608500,Frame,Apartment,0,0
+200421274,2016-04-11,Urban,NJ,East,371600,Frame,Hospitality,1,0
+200421589,2016-04-12,Urban,NY,East,1769785,Frame,Hospitality,1,0
+200421007,2016-04-12,Urban,WI,Midwest,928300,Masonry,Office Bldg,1,0
+200421714,2016-04-12,Urban,WI,Midwest,2987000,Masonry,Apartment,0,0
+200421130,2016-04-13,Urban,WI,Midwest,2063960,Masonry,Organization,0,0
+200421766,2016-04-13,Rural,NY,East,3178400,Frame,Office Bldg,0,0
+200421888,2016-04-13,Urban,WI,Midwest,5015000,Masonry,Manufacturing,0,1
+200421914,2016-04-13,Rural,VT,Northeast,6169400,Frame,Apartment,1,0
+200421021,2016-04-13,Urban,VT,Northeast,2432875,Fire Resist,Apartment,1,1
+200421701,2016-04-13,Urban,NJ,East,2812559,Frame,Farming,0,1
+200421680,2016-04-14,Urban,VT,Northeast,2785000,Frame,Organization,1,0
+200421124,2016-04-14,Rural,NY,East,1649105,Frame,Farming,0,0
+200421105,2016-04-14,Urban,NY,East,14450000,Frame,Office Bldg,0,1
+200421863,2016-04-15,Rural,NJ,East,3062000,Frame,Apartment,0,1
+200421457,2016-04-16,Rural,WI,Midwest,2464755,Metal Clad,Farming,0,0
+200421593,2016-04-17,Urban,NJ,East,3839200,Masonry,Apartment,0,1
+200421919,2016-04-17,Rural,NY,East,12220000,Frame,Office Bldg,0,0
+200421438,2016-04-17,Rural,NY,East,2013357,Frame,Farming,1,0
+200421729,2016-04-18,Rural,NY,East,1958400,Frame,Farming,0,0
+200421968,2016-04-18,Urban,NY,East,2159000,Frame,Retail,0,0
+200421133,2016-04-18,Rural,NY,East,2244800,Frame,Farming,0,0
+200421181,2016-04-18,Urban,WI,Midwest,3086048,Frame,Hospitality,0,0
+200421711,2016-04-18,Rural,NY,East,1927450,Frame,Farming,0,1
+200421424,2016-04-19,Urban,NJ,East,3990000,Frame,Apartment,1,0
+200421442,2016-04-19,Rural,VT,Northeast,2198800,Frame,Farming,1,1
+200421423,2016-04-19,Urban,NY,East,2000300,Masonry,Office Bldg,0,0
+200421500,2016-04-19,Urban,WI,Midwest,1776800,Frame,Farming,1,0
+200421092,2016-04-20,Urban,NY,East,10780450,Frame,Apartment,0,0
+200421494,2016-04-20,Urban,NY,East,9050000,Frame,Apartment,1,1
+200421785,2016-04-20,Urban,NY,East,5056900,Fire Resist,Apartment,0,0
+200421139,2016-04-20,Urban,NY,East,1381370,Frame,Organization,1,1
+200421844,2016-04-22,Urban,NJ,East,1554500,Frame,Farming,0,0
+200421847,2016-04-22,Urban,IL,Midwest,787500,Frame,Apartment,1,0
+200421332,2016-04-25,Urban,NY,East,2562500,Frame,Apartment,1,1
+200421379,2016-04-25,Rural,NY,East,4477175,Frame,Farming,0,0
+200421647,2016-04-25,Urban,NJ,East,3950000,Frame,Apartment,0,1
+200421510,2016-04-25,Urban,NY,East,4762808,Masonry,Other,0,1
+200421479,2016-04-25,Urban,NY,East,1125600,Masonry,Apartment,1,0
+200421008,2016-04-25,Rural,NY,East,2219900,Frame,Farming,0,0
+200421666,2016-04-26,Urban,NY,East,3074775,Frame,Farming,1,0
+200421756,2016-04-26,Urban,NY,East,1986100,Frame,Apartment,1,0
+200421853,2016-04-26,Urban,MN,Midwest,1305100,Frame,Apartment,1,0
+200421806,2016-04-26,Rural,WI,Midwest,1675000,Frame,Hospitality,0,0
+200421029,2016-04-26,Urban,NY,East,1177700,Frame,Hospitality,0,0
+200421489,2016-04-26,Urban,NY,East,1545100,Frame,Office Bldg,1,0
+200421856,2016-04-26,Rural,NY,East,10397500,Frame,Apartment,0,0
+200421080,2016-04-26,Urban,NY,East,10302000,Fire Resist,Office Bldg,0,0
+200421075,2016-04-27,Urban,NY,East,7350000,Frame,Apartment,0,1
+200421505,2016-04-27,Urban,NY,East,1925000,Masonry,Hospitality,1,1
+200421182,2016-04-28,Urban,NY,East,1974300,Masonry,Organization,0,0
+200421020,2016-04-28,Urban,NY,East,4950000,Frame,Office Bldg,0,1
+200421134,2016-04-28,Urban,NJ,East,10346950,Frame,Office Bldg,0,0
+200421412,2016-04-28,Urban,WI,Midwest,3741300,Fire Resist,Apartment,1,0
+200421740,2016-04-29,Urban,NJ,East,5460000,Frame,Apartment,0,0
+200421491,2016-04-30,Urban,NY,East,8245000,Frame,Apartment,0,0
+200421022,2016-04-30,Urban,OH,Central,1529600,Masonry,Apartment,1,0
+200421028,2016-04-30,Urban,NJ,East,2815000,Metal Clad,Apartment,0,0
+200421383,2016-05-01,Urban,NJ,East,3028850,Frame,Farming,1,0
+200421003,2016-05-01,Rural,WI,Midwest,2052660,Frame,Farming,1,0
+200421120,2016-05-01,Urban,NH,Northeast,97920,Frame,Office Bldg,1,1
+200421597,2016-05-02,Urban,NY,East,7611000,Masonry,Office Bldg,0,1
+200421735,2016-05-02,Urban,NJ,East,299400,Frame,Office Bldg,0,0
+200421948,2016-05-02,Urban,NY,East,2393232,Frame,Farming,1,1
+200421398,2016-05-02,Urban,NY,East,5213100,Frame,Apartment,0,0
+200421037,2016-05-02,Urban,WI,Midwest,8800000,Fire Resist,Office Bldg,0,0
+200421808,2016-05-03,Urban,NY,East,13900000,Frame,Office Bldg,0,0
+200421203,2016-05-04,Urban,NY,East,3107790,Masonry,Office Bldg,1,0
+200421985,2016-05-04,Urban,VT,Northeast,1960000,Frame,Farming,0,1
+200421575,2016-05-04,Rural,NY,East,7350000,Frame,Apartment,0,0
+200421872,2016-05-04,Urban,NJ,East,205000,Fire Resist,Retail,0,0
+200421842,2016-05-05,Rural,NJ,East,2753500,Masonry,Office Bldg,1,0
+200421979,2016-05-05,Urban,NY,East,1125600,Masonry,Apartment,0,0
+200421854,2016-05-05,Urban,NY,East,4981500,Frame,Farming,0,0
+200421270,2016-05-07,Urban,NY,East,710400,Masonry,Office Bldg,0,1
+200421787,2016-05-08,Urban,NY,East,953100,Metal Clad,Office Bldg,0,1
+200421439,2016-05-08,Rural,NY,East,4017155,Frame,Farming,0,1
+200421220,2016-05-09,Urban,NY,East,3850000,Frame,Construction,1,0
+200421795,2016-05-09,Urban,IL,Midwest,1702350,Frame,Apartment,0,0
+200421989,2016-05-09,Urban,NY,East,1545100,Frame,Office Bldg,0,1
+200421933,2016-05-09,Urban,NY,East,8923000,Frame,Apartment,1,0
+200421752,2016-05-09,Urban,NY,East,199000,Frame,Retail,0,1
+200421817,2016-05-10,Urban,ME,Northeast,1444255,Frame,Organization,1,0
+200421087,2016-05-10,Urban,NJ,East,405556,Frame,Apartment,1,0
+200421636,2016-05-11,Urban,NY,East,1697200,Frame,Other,0,1
+200421972,2016-05-11,Urban,NY,East,9000000,Fire Resist,Apartment,0,0
+200421531,2016-05-11,Urban,WI,Midwest,53410614,Frame,Construction,0,0
+200421086,2016-05-11,Rural,NY,East,1498850,Metal Clad,Farming,0,0
+200421925,2016-05-11,Urban,NJ,East,5850000,Frame,Apartment,1,0
+200421519,2016-05-12,Urban,NY,East,192000,Masonry,Retail,0,1
+200421354,2016-05-12,Rural,NY,East,4981500,Frame,Farming,1,0
+200421939,2016-05-13,Urban,NY,East,4017155,Frame,Farming,0,0
+200421100,2016-05-13,Urban,NY,East,1600000,Masonry,Hospitality,0,0
+200421267,2016-05-13,Urban,ME,Northeast,7150000,Masonry,Apartment,1,0
+200421399,2016-05-13,Rural,NY,East,2336132,Metal Clad,Farming,1,0
+200421507,2016-05-13,Urban,WI,Midwest,928300,Masonry,Office Bldg,0,1
+200421987,2016-05-13,Rural,IL,Midwest,3883300,Metal Clad,Farming,1,0
+200421154,2016-05-13,Urban,WI,Midwest,723900,Fire Resist,Office Bldg,0,0
+200421097,2016-05-14,Urban,NY,East,7611000,Masonry,Office Bldg,1,0
+200421024,2016-05-14,Urban,NY,East,13750000,Frame,Apartment,1,0
+200421760,2016-05-14,Urban,VT,Northeast,10700000,Frame,Hospitality,1,0
+200421492,2016-05-15,Urban,NJ,East,2432600,Frame,Retail,0,1
+200421829,2016-05-15,Rural,NY,East,21250000,Frame,Office Bldg,0,0
+200421231,2016-05-15,Urban,WI,Midwest,6040300,Masonry,Apartment,0,0
+200421370,2016-05-16,Rural,NY,East,2636313,Frame,Farming,0,1
+200421071,2016-05-17,Rural,WI,Midwest,5613900,Masonry,Farming,1,0
+200421730,2016-05-17,Urban,NY,East,17746832,Masonry,Apartment,0,1
+200421890,2016-05-18,Rural,NJ,East,1563500,Frame,Retail,0,0
+200421169,2016-05-19,Urban,NJ,East,14474600,Fire Resist,Apartment,0,0
+200421096,2016-05-19,Urban,NJ,East,2249500,Frame,Farming,1,1
+200421407,2016-05-19,Rural,NY,East,3295800,Frame,Farming,1,0
+200421466,2016-05-19,Urban,NY,East,12493000,Frame,Apartment,0,1
+200421880,2016-05-19,Urban,NY,East,2395000,Frame,Hospitality,0,0
+200421291,2016-05-19,Urban,NY,East,311200,Frame,Apartment,0,1
+200421556,2016-05-19,Urban,OH,Central,218490,Frame,Apartment,0,1
+200421371,2016-05-21,Urban,NY,East,2080000,Masonry,Hospitality,0,0
+200421070,2016-05-21,Rural,NY,East,1417800,Frame,Organization,1,0
+200421163,2016-05-21,Urban,NJ,East,1045000,Frame,Apartment,0,0
+200421753,2016-05-21,Urban,WI,Midwest,2100000,Frame,Apartment,1,1
+200421858,2016-05-21,Urban,NY,East,10808800,Frame,Office Bldg,0,1
+200421541,2016-05-21,Urban,NY,East,21400000,Fire Resist,Apartment,0,0
+200421453,2016-05-21,Urban,NY,East,275000,Fire Resist,Retail,1,0
+200421227,2016-05-21,Urban,NJ,East,373500,Frame,Office Bldg,0,1
+200421934,2016-05-23,Urban,WI,Midwest,2900000,Fire Resist,Apartment,1,0
+200421622,2016-05-23,Urban,WI,Midwest,1451662,Masonry,Farming,0,0
+200421325,2016-05-23,Urban,WI,Midwest,1519100,Masonry,Apartment,1,0
+200421653,2016-05-24,Rural,MI,Central,394220,Frame,Retail,0,0
+200421013,2016-05-24,Urban,WI,Midwest,4036000,Masonry,Medical,0,0
+200421514,2016-05-24,Urban,NJ,East,472800,Masonry,Retail,1,0
+200421538,2016-05-24,Rural,NY,East,1123000,Frame,Office Bldg,0,0
+200421145,2016-05-24,Urban,NJ,East,1693000,Frame,Farming,1,0
+200421763,2016-05-25,Urban,NY,East,1037500,Frame,Manufacturing,0,0
+200421168,2016-05-25,Urban,NY,East,13370000,Frame,Apartment,0,0
+200421345,2016-05-25,Urban,NJ,East,1115870,Frame,Farming,1,0
+200421347,2016-05-25,Urban,IL,Midwest,787500,Frame,Apartment,0,0
+200421807,2016-05-26,Rural,NH,Northeast,145680,Frame,Office Bldg,0,0
+200421731,2016-05-26,Urban,WI,Midwest,6040300,Masonry,Apartment,0,0
+200421809,2016-05-27,Rural,NY,East,13575000,Frame,Office Bldg,1,0
+200421277,2016-05-27,Urban,NY,East,7700000,Fire Resist,Construction,0,1
+200421812,2016-05-27,Urban,NY,East,2131900,Masonry,Retail,0,0
+200421682,2016-05-28,Urban,NY,East,1974300,Masonry,Organization,0,1
+200421254,2016-05-28,Urban,NY,East,1875000,Masonry,Hospitality,0,1
+200421394,2016-05-29,Urban,WI,Midwest,2211300,Masonry,Service,0,1
+200421376,2016-05-29,Urban,NY,East,2000000,Masonry,Apartment,0,0
+200421977,2016-05-30,Urban,NJ,East,5114500,Frame,Office Bldg,0,0
+200421974,2016-05-30,Urban,NH,Northeast,345000,Metal Clad,Retail,1,1
+200421232,2016-05-30,Rural,WI,Midwest,2224219,Frame,Farming,0,0
+200421757,2016-05-31,Urban,WI,Midwest,105000,Masonry,Other,0,0
+200421581,2016-05-31,Rural,NH,Northeast,2500000,Metal Clad,Manufacturing,0,0
+200421116,2016-06-01,Urban,NY,East,9973900,Frame,Apartment,1,0
+200421803,2016-06-01,Urban,NY,East,1851125,Frame,Office Bldg,0,0
+200421791,2016-06-01,Urban,NY,East,311200,Frame,Apartment,0,0
+200421190,2016-06-02,Urban,NY,East,19451600,Frame,Office Bldg,0,1
+200421032,2016-06-02,Urban,NJ,East,3189300,Masonry,Service,0,0
+200421239,2016-06-02,Urban,WI,Midwest,3701573,Frame,Farming,1,0
+200421142,2016-06-02,Rural,WI,Midwest,3725520,Masonry,Farming,0,0
+200421678,2016-06-03,Urban,WI,Midwest,4077100,Masonry,Apartment,0,0
+200421967,2016-06-03,Urban,WI,Midwest,539040,Frame,Retail,0,0
+200421342,2016-06-04,Urban,NJ,East,2753500,Masonry,Office Bldg,0,0
+200421358,2016-06-04,Urban,NY,East,10808800,Frame,Office Bldg,1,0
+200421223,2016-06-04,Rural,WI,Midwest,1658765,Masonry,Farming,0,0
+200421272,2016-06-05,Urban,WI,Midwest,8166050,Fire Resist,Apartment,0,0
+200421878,2016-06-05,Rural,MI,Central,3255300,Frame,Hospitality,0,0
+200421411,2016-06-05,Urban,WI,Midwest,3175400,Masonry,Office Bldg,0,0
+200421815,2016-06-05,Urban,WI,Midwest,2321900,Frame,Manufacturing,0,1
+200421415,2016-06-06,Urban,NY,East,2325718,Metal Clad,Manufacturing,0,0
+200421312,2016-06-06,Urban,NY,East,2131900,Masonry,Retail,0,0
+200421741,2016-06-06,Urban,NY,East,3136600,Frame,Farming,0,1
+200421069,2016-06-06,Rural,NY,East,3805200,Metal Clad,Farming,1,0
+200421804,2016-06-06,Urban,NY,East,8345500,Frame,Apartment,0,0
+200421964,2016-06-07,Rural,NY,East,645000,Fire Resist,Retail,0,0
+200421050,2016-06-07,Urban,IL,Midwest,1895000,Masonry,Office Bldg,0,0
+200421696,2016-06-08,Rural,NJ,East,16200000,Frame,Office Bldg,0,1
+200421758,2016-06-09,Rural,NJ,East,3700000,Masonry,Office Bldg,1,0
+200421448,2016-06-09,Rural,NY,East,2393232,Frame,Farming,1,0
+200421302,2016-06-09,Urban,NY,East,7932500,Frame,Apartment,1,0
+200421252,2016-06-09,Rural,NY,East,199000,Frame,Retail,0,0
+200421484,2016-06-10,Rural,NY,East,6235057,Frame,Farming,1,0
+200421225,2016-06-10,Urban,NY,East,6750000,Frame,Apartment,1,0
+200421309,2016-06-10,Urban,NY,East,13575000,Frame,Office Bldg,1,1
+200421761,2016-06-10,Rural,WI,Midwest,1778600,Frame,Farming,0,0
+200421591,2016-06-10,Urban,NY,East,1599860,Frame,Farming,0,0
+200421392,2016-06-11,Urban,NY,East,6198000,Frame,Office Bldg,0,0
+200421537,2016-06-11,Urban,WI,Midwest,8800000,Fire Resist,Office Bldg,0,0
+200421103,2016-06-11,Urban,NY,East,1800000,Frame,Apartment,1,0
+200421992,2016-06-11,Rural,NJ,East,2432600,Frame,Retail,0,0
+200421468,2016-06-12,Urban,NY,East,2159000,Frame,Retail,0,0
+200421102,2016-06-13,Urban,NY,East,220000,Metal Clad,Hospitality,0,1
+200421910,2016-06-13,Rural,NJ,East,1807440,Frame,Organization,0,1
+200421485,2016-06-13,Rural,VT,Northeast,1960000,Frame,Farming,0,0
+200421472,2016-06-13,Urban,NY,East,9000000,Fire Resist,Apartment,0,0
+200421513,2016-06-14,Urban,WI,Midwest,4036000,Masonry,Medical,0,0
+200421048,2016-06-14,Urban,WI,Midwest,1990915,Masonry,Office Bldg,0,0
+200421904,2016-06-14,Urban,NY,East,8115500,Fire Resist,Apartment,0,0
+200421521,2016-06-14,Urban,VT,Northeast,2432875,Fire Resist,Apartment,1,1
+200421981,2016-06-14,Urban,NY,East,3920500,Frame,Farming,1,0
+200421988,2016-06-15,Urban,NY,East,1425000,Masonry,Apartment,1,0
+200421681,2016-06-15,Urban,WI,Midwest,3086048,Frame,Hospitality,0,0
+200421307,2016-06-15,Urban,NH,Northeast,145680,Frame,Office Bldg,0,0
+200421823,2016-06-17,Urban,NJ,East,320100,Frame,Apartment,0,0
+200421816,2016-06-18,Rural,NJ,East,4726686,Frame,Farming,0,0
+200421869,2016-06-18,Urban,NY,East,2029750,Frame,Apartment,1,1
+200421405,2016-06-18,Rural,NY,East,2162291,Frame,Farming,1,0
+200421834,2016-06-18,Urban,NY,East,503000,Masonry,Hospitality,0,0
+200421932,2016-06-18,Urban,WI,Midwest,3952500,Masonry,Manufacturing,0,0
+200421381,2016-06-19,Urban,NY,East,5550000,Fire Resist,Apartment,0,1
+200421329,2016-06-19,Urban,NY,East,21250000,Frame,Office Bldg,1,0
+200421429,2016-06-19,Urban,NY,East,3871000,Frame,Apartment,0,0
+200421246,2016-06-19,Urban,NY,East,1275600,Frame,Apartment,1,0
+200421161,2016-06-19,Rural,NY,East,1973200,Frame,Farming,0,0
+200421649,2016-06-20,Urban,WI,Midwest,35245000,Masonry,Apartment,0,0
+200421297,2016-06-20,Urban,WI,Midwest,2025100,Masonry,Office Bldg,0,0
+200421950,2016-06-20,Urban,NY,East,5017360,Frame,Farming,0,0
+200421256,2016-06-20,Urban,NY,East,1986100,Frame,Apartment,0,0
+200421901,2016-06-21,Urban,NY,East,1500000,Fire Resist,Hospitality,0,1
+200421455,2016-06-21,Urban,NY,East,27208210,Fire Resist,Apartment,0,1
+200421978,2016-06-22,Urban,WI,Midwest,4822450,Masonry,Office Bldg,0,0
+200421085,2016-06-22,Urban,NY,East,2001250,Frame,Office Bldg,0,0
+200421697,2016-06-22,Urban,NY,East,2570600,Masonry,Office Bldg,1,0
+200421199,2016-06-22,Urban,NY,East,205000,Fire Resist,Retail,1,0
+200421751,2016-06-22,Urban,WI,Midwest,4671000,Masonry,Apartment,0,0
+200421287,2016-06-22,Urban,NY,East,953100,Metal Clad,Office Bldg,0,0
+200421778,2016-06-23,Urban,IL,Midwest,4578800,Frame,Farming,0,1
+200421860,2016-06-23,Urban,NJ,East,2423500,Frame,Apartment,1,1
+200421236,2016-06-24,Urban,WI,Midwest,1397100,Masonry,Office Bldg,1,0
+200421264,2016-06-24,Rural,NY,East,2480800,Frame,Farming,0,0
+200421420,2016-06-24,Urban,NY,East,1144300,Frame,Apartment,0,0
+200421435,2016-06-25,Urban,NY,East,6450000,Frame,Office Bldg,0,0
+200421212,2016-06-26,Rural,NY,East,2660299,Frame,Farming,0,1
+200421669,2016-06-26,Urban,NJ,East,14474600,Fire Resist,Apartment,1,0
+200421951,2016-06-26,Urban,NY,East,2625000,Frame,Apartment,0,1
+200421012,2016-06-26,Urban,NY,East,6350000,Frame,Apartment,0,1
+200421722,2016-06-27,Urban,NY,East,2000000,Frame,Hospitality,0,0
+200421943,2016-06-27,Rural,NY,East,3553009,Frame,Farming,0,1
+200421726,2016-06-27,Urban,IL,Midwest,7828000,Masonry,Office Bldg,0,0
+200421848,2016-06-27,Urban,NY,East,15750000,Masonry,Apartment,0,0
+200421716,2016-06-28,Rural,NY,East,16950000,Frame,Apartment,0,1
+200421408,2016-06-28,Urban,NY,East,9710700,Frame,Apartment,0,1
+200421172,2016-06-28,Urban,NY,East,9250000,Frame,Office Bldg,0,0
+200421725,2016-06-29,Urban,NY,East,6750000,Frame,Apartment,0,1
+200421638,2016-06-29,Urban,WI,Midwest,6020060,Masonry,Farming,1,1
+200421317,2016-06-30,Urban,ME,Northeast,1444255,Frame,Organization,0,0
+200421367,2016-06-30,Urban,WI,Midwest,2070000,Masonry,Apartment,0,1
+200421462,2016-07-01,Urban,NY,East,1780000,Masonry,Hospitality,0,0
+200421963,2016-07-02,Urban,NY,East,10746600,Frame,Apartment,0,0
+200421059,2016-07-02,Urban,NY,East,11400000,Masonry,Apartment,0,0
+200421549,2016-07-02,Urban,NJ,East,1245000,Frame,Hospitality,0,1
+200421511,2016-07-03,Urban,NY,East,13925190,Frame,Apartment,1,1
+200421945,2016-07-03,Urban,NY,East,2854500,Masonry,Apartment,1,1
+200421885,2016-07-03,Rural,NY,East,30000,Fire Resist,Service,0,0
+200421966,2016-07-04,Urban,NY,East,12493000,Frame,Apartment,1,1
+200421607,2016-07-04,Urban,WI,Midwest,2280000,Frame,Hospitality,1,1
+200421903,2016-07-05,Rural,WI,Midwest,2502600,Masonry,Apartment,0,1
+200421522,2016-07-05,Urban,OH,Central,1529600,Masonry,Apartment,1,0
+200421671,2016-07-05,Urban,WI,Midwest,7750100,Masonry,Other,0,1
+200421419,2016-07-05,Urban,NY,East,12220000,Frame,Office Bldg,0,1
+200421067,2016-07-06,Urban,NY,East,13882500,Frame,Apartment,1,1
+200421931,2016-07-06,Urban,NY,East,2943800,Frame,Farming,0,0
+200421630,2016-07-06,Rural,WI,Midwest,2063960,Masonry,Organization,0,0
+200421715,2016-07-06,Urban,VT,Northeast,16429900,Frame,Apartment,0,0
+200421587,2016-07-07,Urban,NJ,East,405556,Frame,Apartment,0,0
+200421991,2016-07-07,Rural,NY,East,8245000,Frame,Apartment,0,0
+200421883,2016-07-07,Urban,NJ,East,3028850,Frame,Farming,0,0
+200421690,2016-07-08,Urban,NY,East,19451600,Frame,Office Bldg,1,1
+200421300,2016-07-08,Urban,NY,East,3235700,Frame,Apartment,0,0
+200421962,2016-07-08,Urban,NY,East,1780000,Masonry,Hospitality,0,0
+200421137,2016-07-09,Urban,VT,Northeast,3334353,Metal Clad,Farming,1,1
+200421688,2016-07-09,Rural,NY,East,2758482,Fire Resist,Apartment,0,0
+200421857,2016-07-09,Urban,NJ,East,2003000,Masonry,Apartment,1,0
+200421062,2016-07-09,Urban,NY,East,140000,Masonry,Retail,0,0
+200421238,2016-07-09,Urban,MI,Central,1991600,Frame,Organization,0,0
+200421426,2016-07-10,Urban,NJ,East,6250000,Frame,Apartment,0,0
+200421700,2016-07-10,Urban,OH,Central,1760800,Frame,Apartment,0,1
+200421045,2016-07-11,Urban,NJ,East,1688300,Frame,Hospitality,1,0
+200421699,2016-07-12,Urban,NY,East,205000,Fire Resist,Retail,1,0
+200421594,2016-07-12,Urban,NJ,East,296000,Frame,Apartment,0,1
+200421391,2016-07-12,Rural,NY,East,10979275,Frame,Farming,0,0
+200421660,2016-07-12,Urban,IL,Midwest,4886675,Masonry,Apartment,0,1
+200421490,2016-07-13,Urban,WI,Midwest,1665100,Frame,Apartment,0,0
+200421864,2016-07-14,Urban,NY,East,2815900,Metal Clad,Manufacturing,1,1
+200421599,2016-07-14,Urban,NJ,East,9115500,Frame,Apartment,0,1
+200421258,2016-07-15,Urban,NJ,East,3700000,Masonry,Office Bldg,0,1
+200421870,2016-07-15,Urban,NY,East,2636313,Frame,Farming,0,0
+200421360,2016-07-15,Urban,NJ,East,2423500,Frame,Apartment,1,0
+200421386,2016-07-15,Urban,NY,East,15700000,Frame,Office Bldg,0,0
+200421530,2016-07-15,Urban,VT,Northeast,7203500,Frame,Office Bldg,0,0
+200421265,2016-07-16,Urban,WI,Midwest,578400,Masonry,Office Bldg,0,0
+200421499,2016-07-16,Urban,NY,East,16482200,Frame,Office Bldg,0,0
+200421044,2016-07-17,Urban,NY,East,9503000,Frame,Office Bldg,0,1
+200421410,2016-07-18,Urban,NJ,East,1807440,Frame,Organization,0,0
+200421750,2016-07-18,Rural,WI,Midwest,6385452,Frame,Farming,1,0
+200421443,2016-07-18,Rural,NY,East,3553009,Frame,Farming,1,0
+200421436,2016-07-18,Urban,NY,East,4479400,Frame,Apartment,0,0
+200421874,2016-07-18,Rural,WI,Midwest,1403100,Frame,Medical,0,0
+200421250,2016-07-19,Rural,WI,Midwest,6385452,Frame,Farming,1,1
+200421480,2016-07-19,Urban,NY,East,9377600,Frame,Apartment,0,0
+200421214,2016-07-19,Urban,WI,Midwest,2987000,Masonry,Apartment,0,0
+200421875,2016-07-19,Urban,MI,Central,315000,Frame,Apartment,0,1
+200421983,2016-07-21,Urban,WI,Midwest,4132600,Frame,Farming,1,0
+200421340,2016-07-21,Urban,IL,Midwest,16833800,Fire Resist,Apartment,0,0
+200421058,2016-07-22,Urban,WI,Midwest,8126500,Masonry,Organization,0,0
+200421255,2016-07-22,Rural,WI,Midwest,2201500,Frame,Farming,0,0
+200421909,2016-07-23,Urban,NY,East,2350000,Masonry,Apartment,0,0
+200421906,2016-07-23,Urban,WI,Midwest,4064995,Masonry,Farming,0,1
+200421942,2016-07-23,Rural,VT,Northeast,2198800,Frame,Farming,0,0
+200421195,2016-07-23,Rural,VT,Northeast,2099525,Frame,Farming,0,1
+200421395,2016-07-25,Rural,VT,Northeast,6000902,Frame,Farming,1,1
+200421768,2016-07-25,Urban,NJ,East,1604800,Frame,Hospitality,0,0
+200421608,2016-07-25,Urban,NJ,East,3960000,Frame,Office Bldg,0,0
+200421550,2016-07-25,Urban,IL,Midwest,1895000,Masonry,Office Bldg,0,1
+200421314,2016-07-26,Urban,NY,East,1856637,Masonry,Hospitality,0,1
+200421783,2016-07-27,Urban,NY,East,2007000,Frame,Office Bldg,0,0
+200421017,2016-07-27,Rural,WI,Midwest,1432835,Frame,Farming,0,0
+200421965,2016-07-27,Urban,NY,East,3724339,Frame,Farming,1,0
+200421644,2016-07-27,Urban,NY,East,2402500,Frame,Apartment,1,1
+200421944,2016-07-27,Urban,WI,Midwest,1063100,Masonry,Apartment,0,1
+200421601,2016-07-28,Urban,NJ,East,2575965,Frame,Farming,1,0
+200421617,2016-07-29,Urban,NY,East,15480000,Frame,Office Bldg,0,1
+200421327,2016-07-29,Rural,WI,Midwest,4328620,Frame,Farming,0,0
+200421244,2016-07-30,Urban,NJ,East,1463800,Frame,Farming,0,0
+200421348,2016-07-30,Urban,NY,East,15750000,Masonry,Apartment,0,1
+200421994,2016-07-30,Urban,NY,East,9050000,Frame,Apartment,0,0
+200421915,2016-07-30,Rural,NY,East,2325718,Metal Clad,Manufacturing,1,0
+200421822,2016-07-31,Urban,NY,East,33250000,Frame,Apartment,0,0
+200421278,2016-07-31,Urban,IL,Midwest,4578800,Frame,Farming,0,0
+200421375,2016-07-31,Urban,MI,Central,315000,Frame,Apartment,0,0
+200421393,2016-07-31,Urban,WI,Midwest,504000,Frame,Apartment,0,0
+200421454,2016-07-31,Urban,NY,East,10396250,Frame,Office Bldg,1,0
+200421515,2016-07-31,Urban,WI,Midwest,11710880,Masonry,Apartment,0,0
+200421543,2016-08-02,Urban,NY,East,9650000,Frame,Office Bldg,1,0
+200421566,2016-08-02,Urban,NJ,East,3644800,Frame,Apartment,1,1
+200421691,2016-08-03,Urban,NY,East,1292345,Frame,Office Bldg,0,0
+200421544,2016-08-03,Urban,NY,East,9503000,Frame,Office Bldg,0,0
+200421125,2016-08-03,Urban,NY,East,2329500,Frame,Apartment,1,0
+200421434,2016-08-03,Urban,WI,Midwest,2900000,Fire Resist,Apartment,0,0
+200421614,2016-08-03,Urban,NY,East,4102500,Frame,Farming,1,0
+200421418,2016-08-04,Rural,WI,Midwest,2820265,Frame,Farming,0,1
+200421635,2016-08-04,Urban,NJ,East,8150000,Frame,Apartment,0,0
+200421338,2016-08-04,Urban,NY,East,2363700,Frame,Farming,0,0
+200421369,2016-08-04,Urban,NY,East,2029750,Frame,Apartment,1,0
+200421495,2016-08-05,Rural,NY,East,1480755,Frame,Farming,1,1
+200421413,2016-08-06,Rural,NY,East,2806200,Frame,Farming,0,0
+200421334,2016-08-07,Urban,NY,East,503000,Masonry,Hospitality,0,0
+200421626,2016-08-07,Urban,NY,East,721500,Frame,Apartment,1,1
+200421900,2016-08-07,Urban,NJ,East,6253000,Frame,Apartment,1,0
+200421197,2016-08-07,Urban,NY,East,2570600,Masonry,Office Bldg,0,0
+200421123,2016-08-08,Urban,NJ,East,1761960,Masonry,Office Bldg,0,0
+200421924,2016-08-08,Urban,NJ,East,3990000,Frame,Apartment,0,1
+200421173,2016-08-08,Rural,WI,Midwest,2867650,Frame,Farming,1,0
+200421508,2016-08-08,Urban,NY,East,2219900,Frame,Farming,0,1
+200421781,2016-08-09,Urban,IL,Midwest,172100,Frame,Farming,0,0
+200421005,2016-08-09,Urban,NY,East,1925000,Masonry,Hospitality,0,1
+200421156,2016-08-09,Urban,WI,Midwest,979572,Frame,Retail,1,1
+200421222,2016-08-10,Urban,NY,East,2000000,Frame,Hospitality,0,0
+200421886,2016-08-10,Urban,NY,East,15700000,Frame,Office Bldg,0,0
+200421404,2016-08-10,Urban,NY,East,8115500,Fire Resist,Apartment,0,0
+200421176,2016-08-10,Urban,NY,East,270000,Masonry,Retail,1,0
+200421719,2016-08-10,Urban,NY,East,22050000,Frame,Office Bldg,0,0
+200421947,2016-08-10,Urban,NY,East,1882600,Frame,Farming,1,0
+200421887,2016-08-11,Urban,WI,Midwest,5503255,Masonry,Office Bldg,0,0
+200421095,2016-08-12,Rural,WI,Midwest,2707630,Frame,Farming,0,1
+200421780,2016-08-12,Urban,NJ,East,3432600,Frame,Office Bldg,0,1
+200421146,2016-08-13,Urban,NJ,East,9148076,Frame,Manufacturing,0,0
+200421241,2016-08-14,Rural,NY,East,3136600,Frame,Farming,0,1
+200421658,2016-08-14,Urban,NY,East,4353100,Frame,Farming,0,0
+200421567,2016-08-14,Urban,NY,East,13882500,Frame,Apartment,1,1
+200421572,2016-08-14,Rural,NJ,East,2471100,Frame,Farming,0,0
+200421704,2016-08-15,Urban,NY,East,9448200,Frame,Apartment,0,0
+200421651,2016-08-15,Rural,OH,Central,4488000,Frame,Apartment,1,0
+200421894,2016-08-15,Urban,WI,Midwest,2211300,Masonry,Service,0,0
+200421568,2016-08-15,Urban,NY,East,2050000,Frame,Farming,0,0
+200421284,2016-08-17,Urban,NY,East,9404500,Frame,Apartment,0,0
+200421027,2016-08-18,Urban,WI,Midwest,4380200,Masonry,Office Bldg,1,1
+200421728,2016-08-18,Urban,NY,East,17050000,Frame,Office Bldg,0,0
+200421288,2016-08-19,Rural,NY,East,2562500,Fire Resist,Manufacturing,1,0
+200421155,2016-08-19,Rural,NY,East,2006700,Frame,Farming,0,0
+200421639,2016-08-20,Urban,NY,East,1381370,Frame,Organization,0,0
+200421380,2016-08-20,Urban,NY,East,2395000,Frame,Hospitality,0,0
+200421598,2016-08-20,Rural,WI,Midwest,1152600,Frame,Farming,1,0
+200421283,2016-08-21,Urban,NY,East,2007000,Frame,Office Bldg,1,1
+200421093,2016-08-22,Urban,NJ,East,3839200,Masonry,Apartment,0,0
+200421663,2016-08-22,Urban,NJ,East,1045000,Frame,Apartment,0,0
+200421527,2016-08-22,Urban,WI,Midwest,4380200,Masonry,Office Bldg,1,0
+200421464,2016-08-22,Urban,NY,East,645000,Fire Resist,Retail,1,0
+200421930,2016-08-23,Urban,NY,East,513300,Frame,Apartment,0,0
+200421687,2016-08-23,Urban,NY,East,1419500,Frame,Farming,1,0
+200421389,2016-08-23,Urban,MI,Central,601000,Frame,Other,1,0
+200421821,2016-08-24,Urban,NY,East,3409000,Metal Clad,Farming,0,0
+200421921,2016-08-24,Urban,NY,East,4530000,Frame,Apartment,1,0
+200421281,2016-08-24,Rural,IL,Midwest,172100,Frame,Farming,0,0
+200421743,2016-08-24,Rural,NY,East,230000,Frame,Manufacturing,0,0
+200421634,2016-08-25,Urban,NJ,East,10346950,Frame,Office Bldg,1,0
+200421166,2016-08-25,Rural,NY,East,3074775,Frame,Farming,0,0
+200421655,2016-08-25,Urban,NY,East,2006700,Frame,Farming,1,0
+200421595,2016-08-25,Urban,WI,Midwest,2707630,Frame,Farming,0,0
+200421952,2016-08-26,Urban,NY,East,285700,Frame,Office Bldg,0,0
+200421916,2016-08-26,Urban,NY,East,245000,Frame,Service,0,0
+200421578,2016-08-26,Urban,NY,East,7585000,Fire Resist,Office Bldg,0,0
+200421289,2016-08-27,Urban,NY,East,6908000,Frame,Office Bldg,0,0
+200421280,2016-08-27,Urban,NJ,East,3432600,Frame,Office Bldg,1,1
+200421721,2016-08-27,Urban,VT,Northeast,13514081,Frame,Recreation,1,0
+200421074,2016-08-27,Urban,WI,Midwest,9062700,Fire Resist,Hospitality,0,0
+200421980,2016-08-28,Rural,NY,East,9377600,Frame,Apartment,0,0
+200421720,2016-08-28,Urban,NY,East,3850000,Frame,Construction,0,1
+200421160,2016-08-28,Urban,IL,Midwest,4886675,Masonry,Apartment,1,0
+200421777,2016-08-29,Rural,NY,East,7700000,Fire Resist,Construction,0,0
+200421336,2016-08-29,Urban,NY,East,3798400,Metal Clad,Office Bldg,1,1
+200421861,2016-08-29,Urban,NY,East,3067800,Frame,Farming,0,0
+200421713,2016-08-30,Urban,WI,Midwest,3980100,Masonry,Apartment,1,0
+200421613,2016-08-30,Urban,NY,East,5990067,Frame,Apartment,0,0
+200421474,2016-08-30,Urban,NH,Northeast,345000,Metal Clad,Retail,1,0
+200421202,2016-08-30,Rural,NY,East,3943000,Frame,Farming,0,0
+200421015,2016-08-31,Urban,WI,Midwest,11710880,Masonry,Apartment,0,0
+200421306,2016-08-31,Urban,WI,Midwest,1675000,Frame,Hospitality,0,1
+200421118,2016-09-01,Rural,NY,East,2446600,Frame,Farming,0,0
+200421569,2016-09-01,Urban,NY,East,3805200,Metal Clad,Farming,1,0
+200421498,2016-09-02,Urban,NY,East,2250000,Frame,Office Bldg,1,0
+200421226,2016-09-02,Urban,IL,Midwest,7828000,Masonry,Office Bldg,0,1
+200421837,2016-09-03,Urban,NJ,East,2269865,Masonry,Retail,1,0
+200421451,2016-09-04,Urban,NY,East,2625000,Frame,Apartment,1,1
+200421060,2016-09-04,Urban,NJ,East,5918400,Frame,Farming,0,0
+200421765,2016-09-04,Rural,WI,Midwest,578400,Masonry,Office Bldg,0,1
+200421621,2016-09-04,Urban,NY,East,5150000,Frame,Apartment,0,0
+200421038,2016-09-05,Urban,NY,East,1123000,Frame,Office Bldg,1,0
+200421487,2016-09-05,Urban,IL,Midwest,3883300,Metal Clad,Farming,1,0
+200421959,2016-09-05,Urban,NJ,East,2837500,Frame,Manufacturing,0,1
+200421849,2016-09-05,Urban,OH,Central,320000,Masonry,Retail,0,0
+200421606,2016-09-05,Urban,NY,East,2835800,Metal Clad,Manufacturing,1,0
+200421583,2016-09-06,Rural,NY,East,2029500,Metal Clad,Apartment,0,0
+200421132,2016-09-07,Urban,NY,East,49837500,Fire Resist,Apartment,0,0
+200421351,2016-09-07,Rural,NY,East,2398000,Metal Clad,Farming,0,0
+200421619,2016-09-07,Urban,VT,Northeast,8861500,Frame,Office Bldg,0,1
+200421217,2016-09-08,Urban,NY,East,36909180,Metal Clad,Manufacturing,0,1
+200421759,2016-09-08,Urban,IL,Midwest,29128000,Fire Resist,Apartment,0,0
+200421941,2016-09-08,Urban,NY,East,9250000,Frame,Apartment,0,0
+200421838,2016-09-10,Urban,NY,East,2363700,Frame,Farming,0,0
+200421401,2016-09-10,Urban,NY,East,1500000,Fire Resist,Hospitality,0,1
+200421316,2016-09-10,Urban,NJ,East,4726686,Frame,Farming,0,0
+200421879,2016-09-10,Rural,NY,East,4477175,Frame,Farming,0,1
+200421586,2016-09-10,Urban,NY,East,1498850,Metal Clad,Farming,0,0
+200421019,2016-09-10,Urban,NY,East,192000,Masonry,Retail,0,0
+200421011,2016-09-10,Urban,NY,East,13925190,Frame,Apartment,1,0
+200421018,2016-09-11,Urban,NY,East,82000,Masonry,Organization,0,1
+200421218,2016-09-11,Urban,NY,East,9600000,Frame,Office Bldg,0,0
+200421298,2016-09-11,Urban,NY,East,6748000,Frame,Apartment,0,1
+200421993,2016-09-12,Urban,NY,East,1480000,Fire Resist,Hospitality,0,0
+200421042,2016-09-12,Urban,NY,East,3754000,Frame,Office Bldg,0,1
+200421313,2016-09-12,Urban,WI,Midwest,631410,Frame,Farming,0,1
+200421295,2016-09-13,Urban,IL,Midwest,1702350,Frame,Apartment,0,1
+200421493,2016-09-13,Urban,NY,East,1480000,Fire Resist,Hospitality,1,0
+200421798,2016-09-13,Rural,NY,East,6748000,Frame,Apartment,1,1
+200421867,2016-09-14,Rural,WI,Midwest,2070000,Masonry,Apartment,0,0
+200421891,2016-09-14,Urban,NY,East,10979275,Frame,Farming,0,0
+200421213,2016-09-14,Urban,WI,Midwest,3980100,Masonry,Apartment,0,1
+200421119,2016-09-14,Urban,VT,Northeast,8861500,Frame,Office Bldg,0,0
+200421675,2016-09-14,Urban,NY,East,2468300,Frame,Apartment,1,0
+200421117,2016-09-15,Urban,NY,East,15480000,Frame,Office Bldg,0,0
+200421553,2016-09-16,Urban,NJ,East,36356000,Fire Resist,Apartment,0,1
+200421927,2016-09-16,Urban,NH,Northeast,1327600,Frame,Apartment,1,1
+200421004,2016-09-16,Urban,NY,East,17580000,Frame,Apartment,0,0
+200421091,2016-09-16,Rural,NY,East,1599860,Frame,Farming,0,0
+200421648,2016-09-18,Rural,NJ,East,14183900,Frame,Apartment,1,1
+200421631,2016-09-18,Urban,VT,Northeast,1806500,Frame,Apartment,1,1
+200421014,2016-09-19,Urban,NJ,East,472800,Masonry,Retail,0,0
+200421159,2016-09-19,Urban,NY,East,2056700,Frame,Other,1,1
+200421611,2016-09-20,Urban,NY,East,8892200,Masonry,Apartment,0,0
+200421929,2016-09-20,Rural,NY,East,3871000,Frame,Apartment,1,1
+200421562,2016-09-20,Urban,NY,East,140000,Masonry,Retail,0,0
+200421198,2016-09-21,Urban,NY,East,1280000,Fire Resist,Hospitality,0,0
+200421204,2016-09-21,Urban,NY,East,9448200,Frame,Apartment,0,0
+200421269,2016-09-21,Urban,NY,East,18275350,Frame,Office Bldg,0,0
+200421637,2016-09-21,Rural,VT,Northeast,3334353,Metal Clad,Farming,0,0
+200421010,2016-09-21,Urban,NY,East,4762808,Masonry,Other,0,1
+200421737,2016-09-22,Urban,NY,East,1714835,Frame,Apartment,0,0
+200421054,2016-09-22,Urban,NJ,East,16932600,Fire Resist,Apartment,0,0
+200421179,2016-09-22,Rural,NY,East,1651300,Frame,Farming,0,0
+200421346,2016-09-23,Urban,NY,East,15625000,Frame,Office Bldg,1,1
+200421762,2016-09-23,Urban,NY,East,3866420,Frame,Farming,0,0
+200421148,2016-09-23,Urban,NJ,East,14183900,Frame,Apartment,1,0
+200421702,2016-09-24,Urban,NY,East,3943000,Frame,Farming,0,0
+200421237,2016-09-24,Urban,NY,East,1714835,Frame,Apartment,0,1
+200421177,2016-09-24,Urban,NJ,East,1374100,Masonry,Office Bldg,0,0
+200421905,2016-09-25,Urban,NY,East,2162291,Frame,Farming,0,0
+200421162,2016-09-26,Urban,NY,East,4156000,Masonry,Hospitality,0,1
+200421152,2016-09-26,Urban,NJ,East,1595500,Frame,Office Bldg,0,0
+200421113,2016-09-26,Urban,NY,East,5990067,Frame,Apartment,1,0
+200421051,2016-09-26,Urban,WI,Midwest,5000368,Masonry,Manufacturing,0,0
+200421616,2016-09-26,Rural,NY,East,9973900,Frame,Apartment,1,0
+200421949,2016-09-26,Urban,NY,East,14678200,Frame,Office Bldg,1,0
+200421695,2016-09-27,Urban,VT,Northeast,2099525,Frame,Farming,0,1
+200421458,2016-09-27,Urban,NY,East,535000,Frame,Office Bldg,0,0
+200421088,2016-09-28,Urban,NY,East,1311220,Frame,Apartment,0,0
+200421605,2016-09-28,Urban,NY,East,14450000,Frame,Office Bldg,0,0
+200421698,2016-09-29,Urban,NY,East,1280000,Fire Resist,Hospitality,0,0
+200421789,2016-09-29,Urban,NY,East,6908000,Frame,Office Bldg,0,1
+200421319,2016-09-29,Urban,VT,Northeast,1325200,Frame,Organization,1,0
+200421576,2016-09-29,Rural,NJ,East,1300900,Masonry,Office Bldg,0,0
+200421296,2016-09-29,Urban,NY,East,280600,Frame,Office Bldg,1,1
+200421473,2016-09-30,Urban,NY,East,292200,Frame,Apartment,0,0
+200421150,2016-10-01,Urban,WI,Midwest,294700,Masonry,Office Bldg,1,1
+200421372,2016-10-02,Urban,NJ,East,205000,Fire Resist,Retail,0,0
+200421504,2016-10-02,Urban,NY,East,17580000,Frame,Apartment,0,0
+200421946,2016-10-02,Urban,NJ,East,3356200,Masonry,Construction,1,0
+200421308,2016-10-04,Urban,NY,East,13900000,Frame,Office Bldg,1,0
+200421552,2016-10-04,Urban,NY,East,8397700,Frame,Apartment,0,0
+200421175,2016-10-04,Urban,NY,East,2468300,Frame,Apartment,0,0
+200421268,2016-10-04,Urban,NJ,East,1604800,Frame,Hospitality,0,0
+200421286,2016-10-04,Urban,WI,Midwest,4577032,Frame,Farming,0,1
+200421643,2016-10-05,Urban,NY,East,7394300,Frame,Apartment,0,0
+200421851,2016-10-05,Rural,NY,East,2398000,Metal Clad,Farming,0,0
+200421814,2016-10-05,Urban,NY,East,1856637,Masonry,Hospitality,1,0
+200421400,2016-10-06,Urban,NJ,East,6253000,Frame,Apartment,0,0
+200421800,2016-10-06,Urban,NY,East,3235700,Frame,Apartment,0,1
+200421865,2016-10-06,Urban,ME,Northeast,790000,Masonry,Apartment,0,0
+200421427,2016-10-07,Urban,NH,Northeast,1327600,Frame,Apartment,0,0
+200421183,2016-10-07,Rural,NY,East,3660780,Frame,Farming,0,1
+200421279,2016-10-07,Rural,VT,Northeast,2477200,Frame,Farming,1,0
+200421936,2016-10-07,Urban,NY,East,4479400,Frame,Apartment,1,0
+200421563,2016-10-07,Urban,NY,East,725000,Masonry,Service,0,0
+200421356,2016-10-07,Urban,NY,East,10397500,Frame,Apartment,1,0
+200421889,2016-10-08,Urban,MI,Central,601000,Frame,Other,0,0
+200421640,2016-10-08,Urban,NY,East,2442400,Frame,Retail,1,0
+200421073,2016-10-08,Rural,VT,Northeast,2985950,Frame,Farming,0,0
+200421041,2016-10-09,Urban,NY,East,21400000,Fire Resist,Apartment,0,1
+200421110,2016-10-09,Urban,VT,Northeast,6354220,Frame,Apartment,0,0
+200421790,2016-10-10,Rural,VT,Northeast,1588100,Masonry,Recreation,0,0
+200421043,2016-10-11,Urban,NY,East,9650000,Frame,Office Bldg,0,1
+200421343,2016-10-11,Urban,NY,East,10518041,Frame,Office Bldg,1,0
+200421986,2016-10-11,Urban,NY,East,2500000,Metal Clad,Farming,1,0
+200421178,2016-10-12,Urban,WI,Midwest,4077100,Masonry,Apartment,0,0
+200421084,2016-10-12,Rural,NY,East,2233200,Frame,Farming,0,1
+200421733,2016-10-12,Urban,NY,East,847300,Frame,Office Bldg,0,0
+200421344,2016-10-13,Urban,NJ,East,1554500,Frame,Farming,1,1
+200421998,2016-10-13,Rural,NY,East,2250000,Frame,Office Bldg,0,1
+200421520,2016-10-13,Urban,NY,East,4950000,Frame,Office Bldg,0,0
+200421871,2016-10-13,Rural,NY,East,2080000,Masonry,Hospitality,0,0
+200421796,2016-10-15,Urban,NY,East,280600,Frame,Office Bldg,0,0
+200421353,2016-10-15,Urban,MN,Midwest,1305100,Frame,Apartment,0,0
+200421036,2016-10-15,Urban,NY,East,18777355,Frame,Apartment,0,1
+200421430,2016-10-15,Urban,NY,East,513300,Frame,Apartment,0,1
+200421739,2016-10-15,Urban,WI,Midwest,3701573,Frame,Farming,0,0
+200421112,2016-10-15,Urban,NJ,East,4651680,Frame,Apartment,0,1
+200421877,2016-10-15,Rural,NY,East,9900000,Frame,Apartment,0,0
+200421431,2016-10-15,Rural,NY,East,2943800,Frame,Farming,0,0
+200421318,2016-10-16,Urban,NY,East,1830900,Frame,Office Bldg,1,1
+200421171,2016-10-16,Urban,WI,Midwest,7750100,Masonry,Other,0,0
+200421574,2016-10-18,Urban,WI,Midwest,9062700,Fire Resist,Hospitality,1,0
+200421776,2016-10-18,Urban,NY,East,24000000,Frame,Apartment,0,0
+200421352,2016-10-19,Urban,NJ,East,2329942,Frame,Farming,0,0
+200421414,2016-10-19,Urban,VT,Northeast,6169400,Frame,Apartment,0,1
+200421337,2016-10-19,Urban,NJ,East,2269865,Masonry,Retail,0,1
+200421001,2016-10-19,Urban,NY,East,1617630,Frame,Retail,1,0
+200421209,2016-10-19,Urban,IL,Midwest,2922600,Masonry,Apartment,1,0
+200421937,2016-10-20,Rural,WI,Midwest,2030600,Frame,Farming,0,1
+200421006,2016-10-20,Urban,IL,Midwest,12934500,Frame,Apartment,0,0
+200421956,2016-10-20,Urban,WI,Midwest,1740000,Masonry,Office Bldg,0,0
+200421710,2016-10-20,Urban,WI,Midwest,500500,Masonry,Apartment,1,1
+200421127,2016-10-21,Urban,NJ,East,2455000,Frame,Apartment,0,0
+200421219,2016-10-21,Urban,NY,East,22050000,Frame,Office Bldg,0,0
+200421330,2016-10-21,Rural,NY,East,2534633,Frame,Farming,0,1
+200421078,2016-10-21,Urban,NY,East,7585000,Fire Resist,Office Bldg,0,0
+200421971,2016-10-21,Urban,NY,East,1121600,Metal Clad,Farming,0,0
+200421192,2016-10-21,Urban,VT,Northeast,9702682,Frame,Apartment,0,1
+200421184,2016-10-22,Urban,NY,East,2550000,Frame,Apartment,0,0
+200421709,2016-10-22,Urban,IL,Midwest,2922600,Masonry,Apartment,0,0
+200421497,2016-10-22,Urban,OH,Central,1739100,Frame,Apartment,0,0
+200421234,2016-10-22,Urban,WI,Midwest,782428,Masonry,Apartment,0,1
+200421046,2016-10-22,Urban,WI,Midwest,17856705,Masonry,Apartment,0,0
+200421661,2016-10-23,Urban,NY,East,1973200,Frame,Farming,0,1
+200421403,2016-10-23,Urban,WI,Midwest,2502600,Masonry,Apartment,0,1
+200421251,2016-10-23,Urban,WI,Midwest,4671000,Masonry,Apartment,1,0
+200421157,2016-10-23,Urban,NY,East,5086300,Frame,Office Bldg,0,1
+200421892,2016-10-23,Urban,NY,East,6198000,Frame,Office Bldg,0,0
+200421064,2016-10-24,Urban,NY,East,10098900,Frame,Office Bldg,0,1
+200421388,2016-10-24,Urban,WI,Midwest,5015000,Masonry,Manufacturing,1,0
+200421402,2016-10-24,Rural,WI,Midwest,2984500,Metal Clad,Farming,0,0
+200421708,2016-10-24,Urban,NY,East,363200,Frame,Office Bldg,0,0
+200421866,2016-10-24,Urban,NJ,East,1975000,Fire Resist,Hospitality,0,0
+200421801,2016-10-24,Rural,NY,East,2356100,Frame,Hospitality,0,0
+200421683,2016-10-25,Urban,NY,East,3660780,Frame,Farming,0,0
+200421311,2016-10-25,Urban,OH,Central,1569440,Masonry,Organization,0,0
+200421243,2016-10-25,Urban,NY,East,230000,Frame,Manufacturing,0,1
+200421539,2016-10-25,Rural,NY,East,2145420,Frame,Farming,0,0
+200421999,2016-10-26,Urban,NY,East,16482200,Frame,Office Bldg,0,0
+200421052,2016-10-26,Urban,NY,East,8397700,Frame,Apartment,0,0
+200421170,2016-10-26,Rural,WI,Midwest,2103390,Masonry,Farming,0,0
+200421355,2016-10-26,Urban,NY,East,535000,Fire Resist,Retail,1,0
+200421770,2016-10-26,Urban,NY,East,710400,Masonry,Office Bldg,0,1
+200421361,2016-10-28,Rural,NY,East,3067800,Frame,Farming,0,0
+200421600,2016-10-28,Urban,NY,East,1600000,Masonry,Hospitality,0,0
+200421533,2016-10-28,Urban,IL,Midwest,3145700,Frame,Education,0,0
+200421276,2016-10-28,Urban,NY,East,24000000,Frame,Apartment,0,1
+200421186,2016-10-29,Urban,NY,East,963100,Metal Clad,Apartment,1,0
+200421923,2016-10-30,Urban,NY,East,2000300,Masonry,Office Bldg,0,1
+200421196,2016-10-31,Urban,NJ,East,16200000,Frame,Office Bldg,0,0
+200421357,2016-10-31,Urban,NJ,East,2003000,Masonry,Apartment,1,1
+200421293,2016-11-01,Urban,NY,East,1557500,Frame,Office Bldg,0,0
+200421899,2016-11-01,Urban,NY,East,2336132,Metal Clad,Farming,0,0
+200421546,2016-11-01,Rural,WI,Midwest,17856705,Masonry,Apartment,0,0
+200421592,2016-11-01,Urban,NY,East,10780450,Frame,Apartment,0,0
+200421843,2016-11-02,Urban,NY,East,10518041,Frame,Office Bldg,0,0
+200421034,2016-11-02,Urban,WI,Midwest,1451100,Frame,Recreation,1,0
+200421200,2016-11-03,Urban,OH,Central,1760800,Frame,Apartment,0,0
+200421615,2016-11-03,Urban,NY,East,3400000,Frame,Construction,1,1
+200421452,2016-11-05,Urban,NY,East,285700,Frame,Office Bldg,0,0
+200421902,2016-11-05,Urban,WI,Midwest,2984500,Metal Clad,Farming,0,1
+200421167,2016-11-05,Urban,MN,Midwest,1834200,Frame,Hospitality,0,1
+200421263,2016-11-05,Urban,NY,East,1037500,Frame,Manufacturing,0,1
+200421079,2016-11-06,Urban,NY,East,9493313,Masonry,Apartment,1,0
+200421459,2016-11-06,Urban,NJ,East,2837500,Frame,Manufacturing,1,0
+200421528,2016-11-07,Rural,NJ,East,2815000,Metal Clad,Apartment,1,0
+200421724,2016-11-07,Urban,OH,Central,8272853,Masonry,Apartment,0,1
+200421618,2016-11-07,Urban,NY,East,2446600,Frame,Farming,0,0
+200421066,2016-11-08,Urban,NJ,East,3644800,Frame,Apartment,0,0
+200421824,2016-11-08,Rural,WI,Midwest,275000,Masonry,Apartment,0,0
+200421151,2016-11-08,Urban,OH,Central,4488000,Frame,Apartment,0,1
+200421470,2016-11-09,Rural,NY,East,100000,Metal Clad,Farming,1,0
+200421233,2016-11-09,Urban,NY,East,847300,Frame,Office Bldg,0,0
+200421629,2016-11-10,Urban,WI,Midwest,1568100,Frame,Farming,0,0
+200421810,2016-11-10,Urban,NY,East,5950500,Metal Clad,Office Bldg,0,0
+200421624,2016-11-10,Urban,NY,East,1649105,Frame,Farming,1,1
+200421650,2016-11-10,Urban,WI,Midwest,294700,Masonry,Office Bldg,1,0
+200421002,2016-11-11,Urban,NY,East,8678500,Fire Resist,Apartment,0,0
+200421832,2016-11-12,Urban,NY,East,2562500,Frame,Apartment,1,1
+200421416,2016-11-12,Urban,NY,East,245000,Frame,Service,0,0
+200421565,2016-11-12,Urban,NY,East,2937200,Frame,Farming,1,0
+200421433,2016-11-12,Urban,NY,East,8923000,Frame,Apartment,0,1
+200421668,2016-11-13,Urban,NY,East,13370000,Frame,Apartment,0,0
+200421275,2016-11-13,Urban,WI,Midwest,1365000,Masonry,Hospitality,0,0
+200421969,2016-11-13,Rural,NJ,East,3750000,Frame,Apartment,0,0
+200421294,2016-11-13,Urban,NY,East,4267000,Frame,Office Bldg,0,0
+200421339,2016-11-14,Urban,WI,Midwest,1960200,Masonry,Farming,1,1
+200421090,2016-11-14,Urban,OH,Central,5377000,Frame,Apartment,0,0
+200421641,2016-11-15,Rural,NJ,East,4193603,Frame,Farming,0,0
+200421364,2016-11-15,Urban,NY,East,2815900,Metal Clad,Manufacturing,0,1
+200421249,2016-11-15,Urban,NY,East,1379400,Frame,Apartment,0,0
+200421897,2016-11-16,Urban,NJ,East,4978985,Frame,Farming,1,1
+200421496,2016-11-16,Urban,VT,Northeast,4101750,Fire Resist,Office Bldg,0,0
+200421164,2016-11-16,Urban,NY,East,800000,Frame,Construction,0,0
+200421582,2016-11-16,Urban,WI,Midwest,4833900,Masonry,Office Bldg,0,1
+200421738,2016-11-17,Rural,MI,Central,1991600,Frame,Organization,1,1
+200421187,2016-11-17,Rural,NY,East,1419500,Frame,Farming,0,0
+200421140,2016-11-17,Urban,NY,East,2442400,Frame,Retail,0,0
+200421481,2016-11-18,Rural,NY,East,3920500,Frame,Farming,1,0
+200421445,2016-11-18,Urban,NY,East,2854500,Masonry,Apartment,0,0
+200421973,2016-11-19,Urban,NY,East,292200,Frame,Apartment,1,0
+200421524,2016-11-19,Rural,NY,East,13750000,Frame,Apartment,0,0
+200421107,2016-11-20,Urban,WI,Midwest,2280000,Frame,Hospitality,0,0
+200421772,2016-11-20,Rural,WI,Midwest,8166050,Fire Resist,Apartment,1,0
+200421033,2016-11-20,Rural,IL,Midwest,3145700,Frame,Education,0,0
+200421188,2016-11-20,Urban,NY,East,2758482,Fire Resist,Apartment,0,0
+200421918,2016-11-21,Urban,WI,Midwest,2820265,Frame,Farming,0,0
+200421031,2016-11-21,Urban,WI,Midwest,53410614,Frame,Construction,0,0
+200421449,2016-11-22,Urban,NY,East,14678200,Frame,Office Bldg,0,1
+200421922,2016-11-22,Rural,ME,Northeast,552300,Frame,Apartment,1,0
+200421784,2016-11-23,Urban,NY,East,9404500,Frame,Apartment,0,1
+200421584,2016-11-23,Urban,NY,East,2233200,Frame,Farming,1,1
+200421460,2016-11-23,Urban,WI,Midwest,1400000,Masonry,Organization,1,1
+200421147,2016-11-23,Urban,NJ,East,3950000,Frame,Apartment,0,1
+200421676,2016-11-23,Urban,NY,East,270000,Masonry,Retail,0,1
+200421201,2016-11-23,Urban,NJ,East,2812559,Frame,Farming,0,0
+200421884,2016-11-24,Urban,NY,East,10811785,Metal Clad,Retail,1,0
+200421928,2016-11-24,Urban,NY,East,1510000,Masonry,Hospitality,1,1
+200421995,2016-11-24,Urban,NY,East,1480755,Frame,Farming,1,1
+200421642,2016-11-24,Urban,WI,Midwest,3725520,Masonry,Farming,0,0
+200421717,2016-11-24,Rural,NY,East,36909180,Metal Clad,Manufacturing,0,0
+200421836,2016-11-25,Urban,NY,East,3798400,Metal Clad,Office Bldg,0,0
+200421684,2016-11-26,Rural,NY,East,2550000,Frame,Apartment,0,0
+200421131,2016-11-26,Urban,VT,Northeast,1806500,Frame,Apartment,0,1
+200421422,2016-11-27,Urban,ME,Northeast,552300,Frame,Apartment,0,0
+200421958,2016-11-27,Urban,NY,East,535000,Frame,Office Bldg,0,0
+200421390,2016-11-27,Urban,NJ,East,1563500,Frame,Retail,1,0
+200421659,2016-11-27,Rural,NY,East,2056700,Frame,Other,0,0
+200421645,2016-11-28,Rural,NJ,East,1693000,Frame,Farming,0,1
+200421828,2016-11-28,Urban,NJ,East,1840000,Masonry,Apartment,0,0
+200421099,2016-11-28,Urban,NJ,East,9115500,Frame,Apartment,1,1
+200421893,2016-11-29,Urban,WI,Midwest,504000,Frame,Apartment,0,1
+200421374,2016-11-29,Urban,WI,Midwest,1403100,Frame,Medical,0,0
+200421063,2016-11-30,Urban,NY,East,725000,Masonry,Service,1,0
+200421165,2016-11-30,Urban,NJ,East,4483000,Frame,Office Bldg,0,1
+200421053,2016-11-30,Urban,NJ,East,36356000,Fire Resist,Apartment,1,0
+200421831,2016-12-01,Urban,NY,East,2494300,Frame,Apartment,1,1
+200421628,2016-12-01,Urban,NJ,East,3363463,Frame,Farming,1,1
+200421585,2016-12-02,Urban,NY,East,2001250,Frame,Office Bldg,1,1
+200421882,2016-12-02,Urban,NY,East,1922800,Metal Clad,Office Bldg,0,0
+200421561,2016-12-02,Urban,NY,East,2550750,Frame,Farming,0,1
+200421292,2016-12-02,Urban,NY,East,14850000,Frame,Office Bldg,0,0
+200421573,2016-12-03,Urban,VT,Northeast,2985950,Frame,Farming,0,0
+200421135,2016-12-04,Urban,NJ,East,8150000,Frame,Apartment,0,1
+200421126,2016-12-05,Urban,NY,East,721500,Frame,Apartment,0,0
+200421101,2016-12-05,Urban,NJ,East,2575965,Frame,Farming,1,0
+200421786,2016-12-05,Urban,WI,Midwest,4577032,Frame,Farming,1,1
+200421705,2016-12-06,Urban,MI,Central,10617800,Frame,Manufacturing,1,1
+200421736,2016-12-06,Urban,WI,Midwest,1397100,Masonry,Office Bldg,0,0
+200421205,2016-12-06,Rural,MI,Central,10617800,Frame,Manufacturing,0,1
+200421478,2016-12-06,Urban,WI,Midwest,4822450,Masonry,Office Bldg,1,0
+200421245,2016-12-07,Rural,VT,Northeast,3579800,Metal Clad,Farming,0,1
+200421685,2016-12-07,Rural,NY,East,2730000,Metal Clad,Hospitality,0,0
+200421632,2016-12-07,Urban,NY,East,49837500,Fire Resist,Apartment,1,0
+200421852,2016-12-07,Urban,NJ,East,2329942,Frame,Farming,0,1
+200421746,2016-12-08,Urban,NY,East,1275600,Frame,Apartment,0,0
+200421674,2016-12-08,Urban,WI,Midwest,2798650,Masonry,Farming,1,1
+200421819,2016-12-08,Urban,VT,Northeast,1325200,Frame,Organization,0,0
+200421954,2016-12-09,Urban,NY,East,10396250,Frame,Office Bldg,0,1
+200421564,2016-12-09,Rural,NY,East,10098900,Frame,Office Bldg,0,1
+200421210,2016-12-09,Urban,WI,Midwest,500500,Masonry,Apartment,1,1
+200421333,2016-12-09,Urban,WI,Midwest,685000,Masonry,Hospitality,0,0
+200421627,2016-12-09,Urban,NJ,East,2455000,Frame,Apartment,0,0
+200421518,2016-12-10,Urban,NY,East,82000,Masonry,Organization,0,0
+200421811,2016-12-10,Urban,OH,Central,1569440,Masonry,Organization,0,0
+200421540,2016-12-10,Rural,NY,East,18933000,Frame,Office Bldg,0,1
+200421797,2016-12-11,Rural,WI,Midwest,2025100,Masonry,Office Bldg,0,0
+200421310,2016-12-11,Urban,NY,East,5950500,Metal Clad,Office Bldg,0,0
+200421486,2016-12-11,Rural,NY,East,2500000,Metal Clad,Farming,0,0
+200421253,2016-12-11,Urban,WI,Midwest,2100000,Frame,Apartment,1,1
+200421792,2016-12-11,Urban,NY,East,14850000,Frame,Office Bldg,0,1
+200421260,2016-12-12,Urban,VT,Northeast,10700000,Frame,Hospitality,1,0
+200421035,2016-12-12,Urban,OH,Central,1787900,Frame,Office Bldg,1,1
+200421221,2016-12-12,Urban,VT,Northeast,13514081,Frame,Recreation,0,1
+200421774,2016-12-13,Urban,NJ,East,371600,Frame,Hospitality,0,0
+200421652,2016-12-13,Rural,NJ,East,1595500,Frame,Office Bldg,0,0
+200421545,2016-12-13,Urban,NJ,East,1688300,Frame,Hospitality,1,0
+200421862,2016-12-13,Urban,OH,Central,1202090,Frame,Organization,0,0
+200421259,2016-12-13,Urban,IL,Midwest,29128000,Fire Resist,Apartment,1,0
+200421602,2016-12-13,Urban,NY,East,220000,Metal Clad,Hospitality,0,1
+200421365,2016-12-13,Urban,ME,Northeast,790000,Masonry,Apartment,0,0
+200421323,2016-12-14,Urban,NJ,East,320100,Frame,Apartment,1,0
+200421262,2016-12-14,Rural,NY,East,3866420,Frame,Farming,1,0
+200421285,2016-12-14,Urban,NY,East,5056900,Fire Resist,Apartment,1,0
+200421216,2016-12-15,Urban,NY,East,16950000,Frame,Apartment,0,0
+200421467,2016-12-16,Urban,WI,Midwest,539040,Frame,Retail,0,0
+200421057,2016-12-16,Urban,NJ,East,3052600,Frame,Apartment,0,1
+200421603,2016-12-16,Rural,NY,East,1800000,Frame,Apartment,0,0
+200421385,2016-12-16,Urban,NY,East,30000,Fire Resist,Service,0,0
+200421076,2016-12-17,Urban,NJ,East,1300900,Masonry,Office Bldg,0,1
+200421559,2016-12-17,Urban,NY,East,11400000,Masonry,Apartment,0,0
+200421841,2016-12-17,Urban,NY,East,4127900,Metal Clad,Farming,0,0
+200421247,2016-12-17,Rural,NY,East,5781710,Frame,Farming,0,1
+200421534,2016-12-17,Urban,WI,Midwest,1451100,Frame,Recreation,0,1
+200421122,2016-12-18,Rural,WI,Midwest,1451662,Masonry,Farming,1,1
+200421672,2016-12-18,Urban,NY,East,9250000,Frame,Office Bldg,0,1
+200421368,2016-12-18,Urban,NY,East,847300,Frame,Apartment,1,0
+200421141,2016-12-19,Urban,NJ,East,4193603,Frame,Farming,0,0
+200421633,2016-12-19,Urban,NY,East,2244800,Frame,Farming,1,0
+200421228,2016-12-19,Urban,NY,East,17050000,Frame,Office Bldg,0,0
+200421694,2016-12-19,Rural,MI,Central,714000,Frame,Apartment,0,1
+200421855,2016-12-19,Urban,NY,East,535000,Fire Resist,Retail,0,0
+200421373,2016-12-19,Urban,NJ,East,1936200,Frame,Farming,1,0
+200421764,2016-12-20,Rural,NY,East,2480800,Frame,Farming,0,0
+200421677,2016-12-20,Rural,NJ,East,1374100,Masonry,Office Bldg,0,1
+200421813,2016-12-21,Urban,WI,Midwest,631410,Frame,Farming,0,0
+200421089,2016-12-21,Urban,NY,East,1769785,Frame,Hospitality,0,0
+200421868,2016-12-21,Urban,NY,East,847300,Frame,Apartment,0,1
+200421440,2016-12-22,Urban,NY,East,11650000,Frame,Office Bldg,0,1
+200421830,2016-12-22,Rural,NY,East,2534633,Frame,Farming,0,0
+200421588,2016-12-22,Urban,NY,East,1311220,Frame,Apartment,0,1
+200421083,2016-12-22,Urban,NY,East,2029500,Metal Clad,Apartment,0,0
+200421664,2016-12-23,Rural,NY,East,800000,Frame,Construction,0,1
+200421349,2016-12-23,Urban,OH,Central,320000,Masonry,Retail,0,0
+200421926,2016-12-24,Urban,NJ,East,6250000,Frame,Apartment,0,0
+200421189,2016-12-24,Urban,OH,Central,661900,Frame,Apartment,1,0
+200421469,2016-12-24,Urban,NJ,East,3750000,Frame,Apartment,0,0
+200421654,2016-12-25,Urban,WI,Midwest,723900,Fire Resist,Office Bldg,1,0
+200421437,2016-12-25,Urban,WI,Midwest,2030600,Frame,Farming,0,0
+200421503,2016-12-26,Rural,WI,Midwest,2052660,Frame,Farming,1,1
+200421465,2016-12-26,Rural,NY,East,3724339,Frame,Farming,0,0
+200421397,2016-12-26,Urban,NJ,East,4978985,Frame,Farming,0,0
+200421040,2016-12-26,Urban,NY,East,18933000,Frame,Office Bldg,0,1
+200421215,2016-12-26,Urban,VT,Northeast,16429900,Frame,Apartment,1,0
+200421240,2016-12-26,Urban,NJ,East,5460000,Frame,Apartment,0,1
+200421111,2016-12-27,Urban,NY,East,8892200,Masonry,Apartment,1,0
+200421718,2016-12-27,Urban,NY,East,9600000,Frame,Office Bldg,1,0
+200421208,2016-12-27,Urban,NY,East,363200,Frame,Office Bldg,1,0
+200421908,2016-12-27,Urban,NY,East,9710700,Frame,Apartment,0,0
+200421793,2016-12-27,Urban,NY,East,1557500,Frame,Office Bldg,0,0
+200421548,2016-12-28,Urban,WI,Midwest,1990915,Masonry,Office Bldg,0,0
+200421061,2016-12-28,Rural,NY,East,2550750,Frame,Farming,0,0
+200421425,2016-12-29,Urban,NJ,East,5850000,Frame,Apartment,0,1
+200421387,2016-12-29,Urban,WI,Midwest,5503255,Masonry,Office Bldg,1,1
+200421023,2016-12-29,Urban,NY,East,7677000,Frame,Apartment,0,0
+200421525,2016-12-29,Urban,NY,East,2529400,Frame,Farming,0,1
+200421960,2016-12-29,Urban,WI,Midwest,1400000,Masonry,Organization,0,0
+200421612,2016-12-30,Urban,NJ,East,4651680,Frame,Apartment,0,0
+200421686,2016-12-30,Urban,NY,East,963100,Metal Clad,Apartment,1,0
+200421835,2016-12-30,Urban,NY,East,10259600,Frame,Apartment,0,1
+200421335,2016-12-30,Urban,NY,East,10259600,Frame,Apartment,0,0
+200421450,2016-12-30,Rural,NY,East,5017360,Frame,Farming,1,1
+200421475,2016-12-30,Urban,NY,East,11575700,Frame,Apartment,0,1
+200421775,2016-12-30,Urban,WI,Midwest,1365000,Masonry,Hospitality,1,0
+200421693,2016-12-30,Rural,NJ,East,10198700,Fire Resist,Office Bldg,1,0
+ ,,,,,,,,,
