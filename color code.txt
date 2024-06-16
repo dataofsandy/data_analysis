@@ -1,0 +1,3 @@
+primary color: #a8d28c
+secondary color: #afd2f2 
+#d6563c
