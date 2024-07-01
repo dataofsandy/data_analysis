@@ -1,0 +1,6 @@
+employee_id , department_id , primary_flag 
+1,59,N
+2,44,N
+3,27,N
+4,29,N
+5,40,Y
