@@ -4,3 +4,12 @@ employee_id , department_id , primary_flag
 3,27,N
 4,29,N
 5,40,Y
+6,6,n
+7,6,y
+7,7,n
+8,8,n
+9,7,n
+9,8,y
+9,9,n
+10,10,N
+10,11,N
