@@ -1,15 +1,15 @@
-use leetcode;
+use github_leetcode;
 
-drop table if EXISTS employees;
+drop table if EXISTS employee;
 
-create table employees(
+create table employee(
     employee_id int,
     department_id int,
     primary_flag char(1)
         check(primary_flag in ('Y', 'N'))
 );
 
-bulk insert employees
+bulk insert employee
 from 'D:\ITCOurses\click\MyProjects\github\leetcode\files\employee.txt'
 WITH(
     firstrow=2,
@@ -17,14 +17,14 @@ WITH(
     rowterminator='\n'
 );
 
-delete from employees;
+delete from employee;
 
-select * from employees;
+select * from employee;
 
 select 
     employee_id,
     department_id
-from employees
+from employee
 WHERE   
     primary_flag='y'
 
@@ -33,7 +33,7 @@ union all
 SELECT
     employee_id,
     department_id
-from employees
+from employee
 WHERE   
     primary_flag='n'
     AND
@@ -41,7 +41,7 @@ WHERE
         select 
             employee_id 
         from 
-            employees 
+            employee
         group by 
             employee_id 
         having COUNT(employee_id)=1
