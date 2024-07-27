@@ -29,7 +29,7 @@ with latestPrice as (
 )
 SELECT
     product_id,
-    new_price
+    new_price [price]
 FROM
     latestPrice
 where rn=1
@@ -38,7 +38,7 @@ union all
 
 SELECT
     distinct product_id,
-    10 [new_price]
+    10 [price]
 from
     products
 WHERE
