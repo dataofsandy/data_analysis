@@ -146,33 +146,12 @@ from (
 
 union ALL
 
--- select 
---     results
--- from(
---     SELECT
---         top 1
---         title [results]
---     from 
---         cte
---     WHERE
---         created_at >= '2020-02-01'
---         AND
---         created_at < '2020-03-01'
---     group BY
---         movie_id,
---         title
---     order BY
---         AVG(rating * 1.0) desc,
---         title 
--- ) b;
-
-
 select 
-    top 1 
-    title [results]
+    results
 from(
     SELECT
-        title    
+        top 1
+        title [results]
     from 
         cte
     WHERE
@@ -185,4 +164,5 @@ from(
     order BY
         AVG(rating * 1.0) desc,
         title 
-) b
+) b;
+
