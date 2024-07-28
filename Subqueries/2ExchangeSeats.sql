@@ -41,7 +41,6 @@ SELECT
 
     end [id],
     student
-
 from 
     Seat
 order by id;
