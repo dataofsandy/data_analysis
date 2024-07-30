@@ -50,3 +50,4 @@ from
     cte
 where 
     date_count = 7;
+
