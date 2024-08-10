@@ -32,7 +32,33 @@ INSERT INTO Orders (product_id, order_date, unit) VALUES
 (5, '2020-02-27', 50),
 (5, '2020-03-01', 50);
 
+/*------------------------------------
+    without using cte 
+    --leetcode shows this execution time faster 99.8%
+---------------------------------------*/
 
+
+SELECT 
+    b.product_name
+    , SUM(a.unit) [units]
+FROM 
+    orders a
+JOIN 
+   Products_asf b
+ON 
+    a.product_id = b.product_id
+WHERE 
+    a.order_date BETWEEN '2020-02-01' AND '2020-02-29'
+GROUP BY 
+    b.product_name
+    ,   b.product_id
+HAVING
+    sum(a.unit) >=100;
+
+
+/*------------------------------------
+    using cte 
+---------------------------------------*/
 with cte as (
     select
         product_name
@@ -59,18 +85,31 @@ GROUP BY
 HAVING
     SUM(unit) >=100;
     
+----------------------------
 
 
+with cte as (
+    select
+        b.product_name
+        , a.unit
+    from
+        Orders a
+    inner JOIN
+        Products_asf b
+    on
+        a.product_id=b.product_id
+    WHERE
+        a.order_date BETWEEN '2020-02-01' AND '2020-02-29'
+)
 
-
-select
+SELECT
     product_name
-    , product_category
-    , order_date
-    , unit
+    , SUM(unit) [unit]
 from
-    Orders a
-inner JOIN
-    Products_asf b
-ON
-    a.product_id=b.product_id
+    cte
+group BY
+    product_name
+HAVING 
+    SUM(UNIT) >=100;
+-------------------------------
+   
