@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This is a ETL Data cleaning project on long covid dataset. To explore the knowledge of data analytics I am doing this project. As ETL plays vital role in data analytics. As MS Sql is popular in the industry. I am using MS Sql
 
 #Analysing
