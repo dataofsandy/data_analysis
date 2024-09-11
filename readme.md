@@ -1,5 +1,5 @@
 # Introduction
-This is a ETL Data cleaning project on long covid dataset. To explore the knowledge of data analytics I am doing this project. As ETL plays vital role in data analytics. As MS Sql is popular in the industry. I am using MS Sql
+This is a ETL Data cleaning project on long covid dataset. To explore the knowledge of data analytics I am doing this project. As ETL plays vital role in data analytics and MS SQL is popular in the industry, I am using MS Sql
 
 # Analysing:
 ### 1. Finding Duplicates
@@ -169,3 +169,40 @@ Cis-gender male
 30 - 39 years
 Straight
 Hispanic or Latino
+
+
+### 7. Transformation, Pivoting and Normalizing subgroup column
+
+In order to make data more informative, Subgroup column is separated to demographic group (national) and demographic factors like age_group, sex, gender_identity, education_level, ...
+
+Output: 5663 records (Note: It's normal to have lots of null records as well due to this process)
+
+![transformation_first_step](assets/Transformation1.png)
+
+### 8. Transformation, Pivoting and Normalizing demographic group and demographic factors obtained from above step 7.
+
+This is the **final table** for our analysis we just do some null checks in this table.
+
+Output: 236 rows
+
+![final_table](assets/FinalTable.png)
+
+### 9. Null checks in final table obtained from step 8.
+
+output: 23 rows
+
+![null_checks_final_table](assets/FinalTableNullValues.png)
+
+### 10. Delete Null values we get from step 9.
+
+output : 23 rows
+
+![delete_null_final_table](assets/FinalTableDeleteNullValue.png)
+
+### 11. Analysis: Maximum national maximum percentage for each indicator along with survey date
+
+This dataset has distinct 9 indicators. As i am interested on national estimates. I calculate national maximum percentage. I use cte to find maximum percentage of each indicator then i did inner join as i also need timeperiodstart date.
+
+Output: 10 rows
+
+![analysis](assets/analysis.png)
